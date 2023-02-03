@@ -1,0 +1,603 @@
+,Rate,Building Type,Address Requested,Address Delivered,Addresses Match?,Annual Sunlight (Hours),Roof Area (sq ft),Savings Estimate ($),Recommended Installation Size (kW),Recommended Area (sq ft)
+0,Commercial,Retail Standalone,"537 BAY ST, Traverse City, Michigan, USA","539 Bay St, Traverse City, MI 49684, USA",0,1278,2731,5000,6.5,458.0
+1,Commercial,Small Office,"1413 WOODMERE AVE, Traverse City, Michigan, USA","1401 Woodmere Ave, Traverse City, MI 49686, USA",0,1370,5814,6000,6.0,423.0
+2,Commercial,Retail Strip Mall,"13920 S WEST BAY SHORE DR, Traverse City, Michigan, USA","13916 S W Bay Shore Dr, Traverse City, MI 49684, USA",0,1316,9708,5000,6.3,440.0
+3,Commercial,Full Service Restaurant,"508 MUNSON AVE, Traverse City, Michigan, USA","508 Munson Ave, Traverse City, MI 49686, USA",1,1345,2414,5000,6.5,458.0
+4,Commercial,Retail Strip Mall,"907 1/2 WOODMERE AVE, Traverse City, Michigan, USA","907 Woodmere Ave, Traverse City, MI 49686, USA",1,1318,7946,5000,6.3,440.0
+5,Commercial,Outpatient,"822 CASS ST, Traverse City, Michigan, USA","822 S Cass St, Traverse City, MI 49684, USA",1,1282,1145,5000,6.5,458.0
+6,Commercial,Warehouse,"1719 S GARFIELD AVE, Traverse City, Michigan, USA","1723 S Garfield Ave, Traverse City, MI 49686, USA",0,1331,18394,6000,6.3,440.0
+7,Commercial,Retail Standalone,"1501 CASS ST, Traverse City, Michigan, USA","145 Fairway Hills Dr, Traverse City, MI 49684, USA",0,1335,1691,5000,6.5,458.0
+8,Commercial,Small Hotel,"1897 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+9,Commercial,Outpatient,"1240 E EIGHTH ST, Traverse City, Michigan, USA","1240 E Eighth St, Traverse City, MI 49686, USA",1,1278,1956,5000,6.5,458.0
+10,Commercial,Medium Office,"435 BAY ST, Traverse City, Michigan, USA","435 Bay St, Traverse City, MI 49684, USA",1,1309,1550,5000,6.5,458.0
+11,Commercial,Retail Strip Mall,"134 1/2 E FRONT ST, Traverse City, Michigan, USA","134 E Front St Lower Unit, Traverse City, MI 49684, USA",1,1334,1321,6000,6.3,440.0
+12,Commercial,Warehouse,"1505 PREMIER ST, Traverse City, Michigan, USA","1505 Premier St, Traverse City, MI 49686, USA",1,1319,6677,6000,6.3,440.0
+13,Commercial,Retail Standalone,"507 BAY ST, Traverse City, Michigan, USA","507 Bay St, Traverse City, MI 49684, USA",1,1435,722,5000,6.3,440.0
+14,Commercial,Residential Home,"13842 S WINDCREST CT, Traverse City, Michigan, USA","2675 Windcrest Ln, Traverse City, MI 49686, USA",0,1233,846,4000,7.3,511.0
+15,Commercial,Retail Strip Mall,"156 E FRONT ST, Traverse City, Michigan, USA","156 E Front St, Traverse City, MI 49684, USA",1,1340,1550,5000,6.3,440.0
+16,Commercial,Religious worship ,"206 S OAK ST, Traverse City, Michigan, USA","206 S Oak St, Traverse City, MI 49684, USA",1,1191,1762,3000,7.5,529.0
+17,Commercial,Retail Standalone,"817 BAY ST, Traverse City, Michigan, USA","817 Bay St, Traverse City, MI 49684, USA",1,1307,2608,5000,6.5,458.0
+18,Commercial,Outpatient,"1117 WEST CIVIC CENTER DR, Traverse City, Michigan, USA","201 S Garfield Ave, Traverse City, MI 49686, USA",0,1312,2326,5000,6.3,440.0
+19,Commercial,Residential Home,"934 WOOD AVE, Traverse City, Michigan, USA","934 Wood Ave, Traverse City, MI 49686, USA",1,1340,546,5000,6.5,458.0
+20,Commercial,Retail Strip Mall,"134 E FRONT ST, Traverse City, Michigan, USA","134 E Front St Lower Unit, Traverse City, MI 49684, USA",1,1334,1321,6000,6.3,440.0
+21,Commercial,Medium Office,"130 HALL ST, Traverse City, Michigan, USA","107 Hall St, Traverse City, MI 49684, USA",0,1323,1709,5000,6.3,440.0
+22,Commercial,Small Hotel,"855 E FRONT ST, Traverse City, Michigan, USA","855 E Front St, Traverse City, MI 49686, USA",1,1123,546,1000,7.8,546.0
+23,Commercial,Retail Strip Mall,"145 E FRONT ST, Traverse City, Michigan, USA","145 E Front St, Traverse City, MI 49684, USA",1,1330,1903,6000,6.3,440.0
+24,Commercial,Warehouse,"884 ROBINWOOD CT, Traverse City, Michigan, USA","884 Robinwood Ct, Traverse City, MI 49686, USA",1,1263,1885,4000,7.0,493.0
+25,Commercial,Warehouse,"2702 AERO PARK DR, Traverse City, Michigan, USA","2670 Aero-Park Dr, Traverse City, MI 49686, USA",0,1332,4299,6000,6.3,440.0
+26,Commercial,Full Service Restaurant,"125 E STATE ST, Traverse City, Michigan, USA","Parking lot, 125 E State St, Traverse City, MI 49684, USA",0,1341,969,6000,6.3,440.0
+27,Commercial,Retail Strip Mall,"720 MUNSON AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+28,Commercial,Small Office,"215 WASHINGTON ST, Traverse City, Michigan, USA","216 E State St, Traverse City, MI 49684, USA",0,1445,194,400,2.8,194.0
+29,Commercial,Large Hotel,"3943 SUMAC DR, Traverse City, Michigan, USA","3931 Creekside Dr, Traverse City, MI 49684, USA",0,1408,2608,6000,6.0,423.0
+30,Commercial,Retail Strip Mall,"232 1/2 E FRONT ST, Traverse City, Michigan, USA","232 E Front St, Traverse City, MI 49684, USA",1,1333,4035,6000,6.3,440.0
+31,Commercial,Warehouse,"725 S GARFIELD AVE, Traverse City, Michigan, USA","735 S Garfield Ave #B100, Traverse City, MI 49686, USA",0,1335,2255,6000,6.3,440.0
+32,Commercial,Other ,"602 WOODMERE AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+33,Commercial,Small Hotel,"730 CENTRE PL, Traverse City, Michigan, USA","730 Centre Pl, Traverse City, MI 49686, USA",1,1228,1321,4000,7.3,511.0
+34,Commercial,Small Office,"911 W ELEVENTH ST, Traverse City, Michigan, USA","911 W Eleventh St, Traverse City, MI 49684, USA",1,1416,1498,6000,6.0,423.0
+35,Commercial,Warehouse,"2823 CASS RD, Traverse City, Michigan, USA","2823 Cass Rd, Traverse City, MI 49684, USA",1,1321,22340,6000,6.3,440.0
+36,Commercial,Quick Service Restaurant,"441 E FRONT ST, Traverse City, Michigan, USA","441 E Front St, Traverse City, MI 49686, USA",1,1422,3647,6000,5.8,405.0
+37,Commercial,Retail Standalone,"723 WOODMERE AVE, Traverse City, Michigan, USA","717 Woodmere Ave, Traverse City, MI 49686, USA",0,1387,2731,6000,6.0,423.0
+38,Commercial,Residential Home,"319 FRANKLIN ST, Traverse City, Michigan, USA","319 Franklin St, Traverse City, MI 49686, USA",1,1277,669,3000,7.8,546.0
+39,Commercial,Primary School,"1600 EASTERN AVE, Traverse City, Michigan, USA","1600 Eastern Ave, Traverse City, MI 49686, USA",1,1379,27485,6000,6.0,423.0
+40,Commercial,Small Office,"112 W FOURTEENTH ST, Traverse City, Michigan, USA","112 W Fourteenth St, Traverse City, MI 49684, USA",1,1331,2202,6000,6.3,440.0
+41,Commercial,Small Office,"1235 E FRONT ST, Traverse City, Michigan, USA","1235 E Front St, Traverse City, MI 49686, USA",1,1304,5286,5000,6.3,440.0
+42,Commercial,Retail Standalone,"116 CASS ST, Traverse City, Michigan, USA","158 E Front St, Traverse City, MI 49684, USA",0,1304,1920,5000,6.3,440.0
+43,Commercial,Retail Standalone,"691 PARSONS RD, Traverse City, Michigan, USA",Not Found,,,,,,
+44,Commercial,Retail Standalone,"2366 CASS RD, Traverse City, Michigan, USA","2366 Cass Rd, Traverse City, MI 49684, USA",1,1326,8933,6000,6.3,440.0
+45,Commercial,Retail Strip Mall,"1019 E EIGHTH ST, Traverse City, Michigan, USA","1023 E Eighth St, Traverse City, MI 49686, USA",0,1316,6025,5000,6.3,440.0
+46,Commercial,Small Hotel,"537 BAY ST GAR., Traverse City, Michigan, USA","539 Bay St, Traverse City, MI 49684, USA",0,1278,2731,5000,6.5,458.0
+47,Commercial,Retail Standalone,"115 GILLIS ST, Traverse City, Michigan, USA","426 W Front St, Traverse City, MI 49684, USA",0,1376,617,5000,6.5,458.0
+48,Commercial,Retail Strip Mall,"114 1/2 E FRONT ST, Traverse City, Michigan, USA","114 E Front St # 205, Traverse City, MI 49684, USA",1,1250,4686,5000,6.8,476.0
+49,Commercial,Other ,"0 PARK ST HOLIDAY LIGHTS, Traverse City, Michigan, USA",Not Found,,,,,,
+50,Commercial,Retail Standalone,"914 E EIGHTH ST, Traverse City, Michigan, USA","914 E Eighth St, Traverse City, MI 49686, USA",1,1313,476,2000,6.8,476.0
+51,Commercial,Small Office,"416 E FRONT ST, Traverse City, Michigan, USA","416 E Front St, Traverse City, MI 49686, USA",1,1321,1603,5000,6.3,440.0
+52,Commercial,Small Office,"409 E EIGHTH ST, Traverse City, Michigan, USA","409 E Eighth St, Traverse City, MI 49686, USA",1,1143,476,200,6.8,476.0
+53,Commercial,Retail Standalone,"502 E EIGHTH ST, Traverse City, Michigan, USA","502 E Eighth St, Traverse City, MI 49686, USA",1,1295,2026,5000,6.5,458.0
+54,Commercial,Residential Home,"509 ROSE ST, Traverse City, Michigan, USA","509 Rose St, Traverse City, MI 49686, USA",1,1303,440,2000,6.3,440.0
+55,Commercial,Large Hotel,"710 COTTAGEVIEW DR, Traverse City, Michigan, USA",Not Found,,,,,,
+56,Commercial,Warehouse,"703 PARSONS RD, Traverse City, Michigan, USA","707 Parsons Rd, Traverse City, MI 49686, USA",0,1210,1691,4000,7.0,493.0
+57,Commercial,Full Service Restaurant,"124 CASS ST, Traverse City, Michigan, USA","124 Cass St, Traverse City, MI 49684, USA",1,1364,810,5000,6.3,440.0
+58,Commercial,Retail Strip Mall,"140 E FRONT ST, Traverse City, Michigan, USA","140 E Front St # B, Traverse City, MI 49684, USA",1,1387,5197,6000,6.0,423.0
+59,Commercial,Small Office,"314 MUNSON AVE, Traverse City, Michigan, USA","314 Munson Ave, Traverse City, MI 49686, USA",1,1288,1480,5000,6.5,458.0
+60,Commercial,Small Office,"3221 RACQUET CLUB DR, Traverse City, Michigan, USA","3195 Racquet Club Dr, Traverse City, MI 49684, USA",0,1410,2766,6000,6.0,423.0
+61,Commercial,Outpatient,"1429 BARLOW ST UNIT, Traverse City, Michigan, USA","1433 Barlow St, Traverse City, MI 49686, USA",0,1433,3947,6000,5.8,405.0
+62,Commercial,Warehouse,"2819 CASS RD, Traverse City, Michigan, USA","2811 Cass Rd, Traverse City, MI 49684, USA",0,1325,6818,6000,6.3,440.0
+63,Commercial,Warehouse,"2811 CASS RD, Traverse City, Michigan, USA","2811 Cass Rd, Traverse City, MI 49684, USA",1,1325,6818,6000,6.3,440.0
+64,Commercial,Retail Standalone,"517 E EIGHTH ST, Traverse City, Michigan, USA",Not Found,,,,,,
+65,Commercial,Retail Strip Mall,"140 E FRONT ST, Traverse City, Michigan, USA","140 E Front St # B, Traverse City, MI 49684, USA",1,1387,5197,6000,6.0,423.0
+66,Commercial,Retail Strip Mall,"1313 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1299 W South Airport Rd, Traverse City, MI 49686, USA",0,1285,4475,5000,6.5,458.0
+67,Commercial,Retail Strip Mall,"1153 S GARFIELD AVE, Traverse City, Michigan, USA","1137 S Garfield Ave, Traverse City, MI 49686, USA",0,1328,27273,6000,6.3,440.0
+68,Commercial,Large Hotel,"3969 SUMAC DR, Traverse City, Michigan, USA","3931 Creekside Dr, Traverse City, MI 49684, USA",0,1408,2608,6000,6.0,423.0
+69,Commercial,Midrise Apartment,"601 FITZHUGH DR, Traverse City, Michigan, USA","601 Fitzhugh Dr, Traverse City, MI 49684, USA",1,1331,30568,6000,6.3,440.0
+70,Commercial,Residential Home,"401 S GARFIELD AVE, Traverse City, Michigan, USA","415 S Garfield Ave, Traverse City, MI 49686, USA",0,1241,546,2000,7.8,546.0
+71,Commercial,Medium Office,"1760 FOREST RIDGE DR, Traverse City, Michigan, USA","1760 Forest Ridge Dr, Traverse City, MI 49686, USA",1,1309,4140,5000,6.5,458.0
+72,Commercial,Small Office,"606 STATION ST, Traverse City, Michigan, USA","510 Depot View Dr, Traverse City, MI 49686, USA",0,1430,1075,5000,6.3,440.0
+73,Commercial,Small Office,"1125 WEST CIVIC CENTER DR, Traverse City, Michigan, USA","1125 W Civic Center Dr, Traverse City, MI 49686, USA",1,1272,6695,5000,6.5,458.0
+74,Commercial,Small Office,"913 BARLOW ST, Traverse City, Michigan, USA","913 Barlow St, Traverse City, MI 49686, USA",1,1391,4581,6000,6.3,440.0
+75,Commercial,Retail Standalone,"531 S UNION ST, Traverse City, Michigan, USA","531 S Union St, Traverse City, MI 49684, USA",1,1417,1198,6000,6.0,423.0
+76,Commercial,Other ,"0 W S AIRPORT RD, Traverse City, Michigan, USA",Not Found,,,,,,
+77,Commercial,Warehouse,"1401 WOODMERE AVE, Traverse City, Michigan, USA","1401 Woodmere Ave, Traverse City, MI 49686, USA",1,1370,5814,6000,6.0,423.0
+78,Commercial,Warehouse,"1645 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1567 W South Airport Rd, Traverse City, MI 49686, USA",0,1385,5039,6000,6.0,423.0
+79,Commercial,Small Office,"100 PARK ST, Traverse City, Michigan, USA","300 E Front St, Traverse City, MI 49684, USA",0,1425,6307,6000,6.0,423.0
+80,Commercial,Retail Strip Mall,"1131 S GARFIELD AVE, Traverse City, Michigan, USA","1115 S Garfield Ave, Traverse City, MI 49684, USA",0,1444,29493,7000,5.8,405.0
+81,Commercial,Other ,"0 SIXTH & UNION, Traverse City, Michigan, USA","620 Sixth St, Traverse City, MI 49684, USA",0,1400,758,5000,6.8,476.0
+82,Commercial,Midrise Apartment,"619 E EIGHTH ST, Traverse City, Michigan, USA","619 E Eighth St, Traverse City, MI 49686, USA",1,1255,740,3000,7.5,529.0
+83,Commercial,Warehouse,"2244 CASS RD, Traverse City, Michigan, USA","2244 Cass Rd, Traverse City, MI 49684, USA",1,1347,3312,6000,6.3,440.0
+84,Commercial,Outpatient,"315 N DIVISION ST, Traverse City, Michigan, USA","315t N Division St, Traverse City, MI 49684, USA",0,1431,4916,6000,5.8,405.0
+85,Commercial,Primary School,"1026 RED DR, Traverse City, Michigan, USA","1026 Red Dr, Traverse City, MI 49684, USA",1,1412,2149,5000,6.5,458.0
+86,Commercial,Medium Office,"140 RIVERS EDGE DR, Traverse City, Michigan, USA",Not Found,,,,,,
+87,Commercial,Small Office,"10753 PINE BLUFF DR, Traverse City, Michigan, USA","10753 Pine Bluff Dr, Traverse City, MI 49684, USA",1,1375,2326,5000,6.5,458.0
+88,Commercial,Retail Standalone,"535 W FRONT ST, Traverse City, Michigan, USA","535 W Front St, Traverse City, MI 49684, USA",1,1311,1621,5000,6.3,440.0
+89,Commercial,Midrise Apartment,"720 FITZHUGH DR, Traverse City, Michigan, USA",Not Found,,,,,,
+90,Commercial,Small Office,"6619 MISSION RIDGE, Traverse City, Michigan, USA","6619 Mission Ridge, Traverse City, MI 49686, USA",1,1159,2731,3000,7.3,511.0
+91,Commercial,Medium Office,"225 GARLAND ST, Traverse City, Michigan, USA","207 W Grandview Pkwy, Traverse City, MI 49684, USA",0,1324,5655,6000,6.3,440.0
+92,Commercial,Retail Strip Mall,"144 HALL ST, Traverse City, Michigan, USA","144 Hall St Suite# 109, Traverse City, MI 49684, USA",1,1321,16755,6000,6.3,440.0
+93,Commercial,Warehouse,"3139 N KEYSTONE RD, Traverse City, Michigan, USA","3139 N Keystone Rd, Traverse City, MI 49686, USA",1,1335,7717,6000,6.3,440.0
+94,Commercial,Midrise Apartment,"715 E STATE ST STE, Traverse City, Michigan, USA","715 E State St, Traverse City, MI 49686, USA",1,1417,3013,6000,6.0,423.0
+95,Commercial,Small Office,"2000 RANDOLPH ST, Traverse City, Michigan, USA",Not Found,,,,,,
+96,Commercial,Small Hotel,"853 E FRONT ST, Traverse City, Michigan, USA","853 E Front St, Traverse City, MI 49686, USA",1,1305,881,4000,7.0,493.0
+97,Commercial,Retail Strip Mall,"441 E FRONT ST, Traverse City, Michigan, USA","441 E Front St, Traverse City, MI 49686, USA",1,1422,3647,6000,5.8,405.0
+98,Commercial,Residential Home,"800 WESTMINSTER RD, Traverse City, Michigan, USA",Not Found,,,,,,
+99,Commercial,Quick Service Restaurant,"124 MUNSON AVE, Traverse City, Michigan, USA","118 Munson Ave ste b, Traverse City, MI 49686, USA",0,1262,652,4000,6.8,476.0
+100,Commercial,Other ,"0 E F HUTTON PARKING LOT, Traverse City, Michigan, USA",Not Found,,,,,,
+101,Commercial,Small Hotel,"1265 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+102,Commercial,Medium Office,"107 CASS ST, Traverse City, Michigan, USA","107 Cass St ste d, Traverse City, MI 49684, USA",1,1348,12157,6000,6.0,423.0
+103,Commercial,Small Office,"440 W FRONT ST, Traverse City, Michigan, USA","440 W Front St, Traverse City, MI 49684, USA",1,1308,3154,5000,6.3,440.0
+104,Commercial,Retail Strip Mall,"322 S UNION ST, Traverse City, Michigan, USA","322 S Union St, Traverse City, MI 49684, USA",1,1400,6378,6000,6.0,423.0
+105,Commercial,Full Service Restaurant,"113 E STATE ST, Traverse City, Michigan, USA","113 E State St, Traverse City, MI 49684, USA",1,1268,1251,5000,6.8,476.0
+106,Commercial,Retail Standalone,"807 LAKE AVE, Traverse City, Michigan, USA","807 Lake Ave, Traverse City, MI 49684, USA",1,1299,3312,5000,6.3,440.0
+107,Commercial,Small Office,"1239 WOODMERE AVE, Traverse City, Michigan, USA","1235 Woodmere Ave, Traverse City, MI 49686, USA",0,1328,5620,6000,6.3,440.0
+108,Commercial,Large Hotel,"1200 W ELEVENTH ST MECH, Traverse City, Michigan, USA","1200 W Eleventh St, Traverse City, MI 49684, USA",1,1399,63197,6000,5.8,405.0
+109,Commercial,Small Office,"525 W FOURTEENTH ST, Traverse City, Michigan, USA","525 W Fourteenth St Suite D, Traverse City, MI 49684, USA",1,1300,2590,5000,6.5,458.0
+110,Commercial,Retail Strip Mall,"104 E FRONT ST, Traverse City, Michigan, USA","102 E Front St, Traverse City, MI 49684, USA",0,1393,3841,6000,6.0,423.0
+111,Commercial,Medium Office,"13818 S WEST BAY SHORE DR, Traverse City, Michigan, USA","13818 S W Bay Shore Dr, Traverse City, MI 49684, USA",1,1431,2572,6000,5.8,405.0
+112,Commercial,Residential Home,"921 W ELEVENTH ST, Traverse City, Michigan, USA","921 W Eleventh St, Traverse City, MI 49684, USA",1,1429,2220,6000,5.8,405.0
+113,Commercial,Residential Home,"202 BOARDMAN AVE, Traverse City, Michigan, USA","402 E State St, Traverse City, MI 49686, USA",0,1213,899,3000,7.8,546.0
+114,Commercial,Medium Office,"934 S GARFIELD AVE, Traverse City, Michigan, USA","928 S Garfield Ave, Traverse City, MI 49686, USA",0,1276,3735,4000,7.3,511.0
+115,Commercial,Medium Office,"600 E FRONT ST, Traverse City, Michigan, USA","600 E Front St, Traverse City, MI 49686, USA",1,1336,33404,6000,5.8,405.0
+116,Commercial,Medium Office,"548 E FRONT ST, Traverse City, Michigan, USA","548 E Front St, Traverse City, MI 49686, USA",1,1303,2061,5000,6.3,440.0
+117,Commercial,Warehouse,"1161 HASTINGS ST, Traverse City, Michigan, USA","1161 Hastings St, Traverse City, MI 49686, USA",1,1285,423,1000,6.0,423.0
+118,Commercial,Medium Office,"333 W GRANDVIEW PKWY, Traverse City, Michigan, USA","333 W Grandview Pkwy, Traverse City, MI 49684, USA",1,1329,11822,6000,6.3,440.0
+119,Commercial,Other ,"750 MUNSON AVE, Traverse City, Michigan, USA","752 Munson Ave, Traverse City, MI 49686, USA",0,1352,2202,6000,6.3,440.0
+120,Commercial,Warehouse,"1659 S GARFIELD AVE, Traverse City, Michigan, USA","1661 S Garfield Ave, Traverse City, MI 49686, USA",0,1372,36540,7000,5.8,405.0
+121,Commercial,Midrise Apartment,"630 S GARFIELD AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+122,Commercial,Retail Strip Mall,"1027 E EIGHTH ST, Traverse City, Michigan, USA","1023 E Eighth St, Traverse City, MI 49686, USA",0,1316,6025,5000,6.3,440.0
+123,Commercial,Midrise Apartment,"619 E EIGHTH ST, Traverse City, Michigan, USA","619 E Eighth St, Traverse City, MI 49686, USA",1,1255,740,3000,7.5,529.0
+124,Commercial,Outpatient,"1832 OAK HOLLOW DR, Traverse City, Michigan, USA","1844 Oak Hollow Dr, Traverse City, MI 49686, USA",0,1367,3259,6000,6.0,423.0
+125,Commercial,Other ,"0 UNION ST & PARKWAY, Traverse City, Michigan, USA","828 S Union St, Traverse City, MI 49684, USA",0,1418,634,3000,7.8,546.0
+126,Commercial,Outpatient,"3130 LOGAN VALLEY RD, Traverse City, Michigan, USA","3130 Logan Valley Rd, Traverse City, MI 49686, USA",1,1438,2837,6000,5.8,405.0
+127,Commercial,Retirement Community,"3950 SCENIC RIDGE, Traverse City, Michigan, USA","3950 Scenic Ridge, Traverse City, MI 49684, USA",1,1448,758,5000,6.5,458.0
+128,Commercial,Retail Strip Mall,"1142 E EIGHTH ST, Traverse City, Michigan, USA","1142 E Eighth St #104, Traverse City, MI 49686, USA",1,1321,2978,5000,6.3,440.0
+129,Commercial,Small Hotel,"440 MUNSON AVE, Traverse City, Michigan, USA","460 Munson Ave US HWY 31, Traverse City, MI 49686, USA",0,1411,14429,6000,5.8,405.0
+130,Commercial,Medium Office,"216 CASS ST, Traverse City, Michigan, USA","216 Cass St, Traverse City, MI 49684, USA",1,1318,1674,5000,6.3,440.0
+131,Commercial,Medium Office,"920 HASTINGS ST STE, Traverse City, Michigan, USA","920 Hastings St STE D, Traverse City, MI 49686, USA",1,1307,13707,5000,6.3,440.0
+132,Commercial,Retail Strip Mall,"223 E FRONT ST, Traverse City, Michigan, USA","223 E Front St, Traverse City, MI 49684, USA",1,1265,2044,5000,6.8,476.0
+133,Commercial,Retail Strip Mall,"148 E FRONT ST, Traverse City, Michigan, USA","148 E Front St, Traverse City, MI 49684, USA",1,1335,4246,6000,6.3,440.0
+134,Commercial,Midrise Apartment,"927 WOODMERE AVE, Traverse City, Michigan, USA","927 Woodmere Ave, Traverse City, MI 49686, USA",1,1282,4440,5000,6.8,476.0
+135,Commercial,Midrise Apartment,"2936 GLEN DR, Traverse City, Michigan, USA","2936 Glen Dr, Traverse City, MI 49686, USA",1,1378,1480,6000,6.3,440.0
+136,Commercial,Small Hotel,"429 MUNSON PL, Traverse City, Michigan, USA",Not Found,,,,,,
+137,Commercial,Warehouse,"436 W FRONT ST, Traverse City, Michigan, USA","436 W Front St, Traverse City, MI 49684, USA",1,1316,6924,6000,6.3,440.0
+138,Commercial,Retail Strip Mall,"157 E FRONT ST, Traverse City, Michigan, USA","153 1/2 E Front St Suite C, Traverse City, MI 49684, USA",0,1374,1815,5000,6.3,440.0
+139,Commercial,Small Hotel,"135 MUNSON AVE, Traverse City, Michigan, USA","125 Munson Ave, Traverse City, MI 49686, USA",0,1311,4616,5000,6.3,440.0
+140,Commercial,Retail Strip Mall,"134 E FRONT ST, Traverse City, Michigan, USA","134 E Front St Lower Unit, Traverse City, MI 49684, USA",1,1334,1321,6000,6.3,440.0
+141,Commercial,Full Service Restaurant,"108 S UNION ST, Traverse City, Michigan, USA","104 S Union St #201, Traverse City, MI 49684, USA",0,1325,4986,6000,6.3,440.0
+142,Commercial,Medium Office,"804 S GARFIELD AVE, Traverse City, Michigan, USA","804 S Garfield Ave Suite A, Traverse City, MI 49686, USA",1,1212,3347,4000,7.0,493.0
+143,Commercial,Small Office,"920 HASTINGS ST STE, Traverse City, Michigan, USA","920 Hastings St STE D, Traverse City, MI 49686, USA",1,1307,13707,5000,6.3,440.0
+144,Commercial,Retail Strip Mall,"1214 S GARFIELD AVE, Traverse City, Michigan, USA","1208 S Garfield Ave, Traverse City, MI 49686, USA",0,1314,11963,5000,6.3,440.0
+145,Commercial,Retirement Community,"461 MUNSON AVE, Traverse City, Michigan, USA","461 Munson Ave, Traverse City, MI 49686, USA",1,1446,15469,7000,5.8,405.0
+146,Commercial,Small Hotel,"1466 NEWPORT ST, Traverse City, Michigan, USA","1466 Newport St, Traverse City, MI 49686, USA",1,1264,652,4000,7.0,493.0
+147,Commercial,Retail Standalone,"1580 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1580 W South Airport Rd, Traverse City, MI 49686, USA",1,1324,2696,6000,6.3,440.0
+148,Commercial,Small Office,"818 RED DR STE, Traverse City, Michigan, USA","818 Red Dr, Traverse City, MI 49684, USA",1,1296,2660,5000,6.5,458.0
+149,Commercial,Small Office,"697 HANNAH AVE, Traverse City, Michigan, USA","697 Hannah Ave, Traverse City, MI 49686, USA",1,1432,2907,6000,5.8,405.0
+150,Commercial,Retail Strip Mall,"109 E FRONT ST, Traverse City, Michigan, USA","107 E Front St, Traverse City, MI 49684, USA",0,1324,14007,6000,6.3,440.0
+151,Commercial,Warehouse,"2465 N AERO PARK CT OFFIC, Traverse City, Michigan, USA","2465 N Aero-Park Ct, Traverse City, MI 49686, USA",1,1271,5708,5000,6.5,458.0
+152,Commercial,Warehouse,"1500 BARLOW ST, Traverse City, Michigan, USA","1485 Barlow St, Traverse City, MI 49686, USA",0,1321,846,4000,7.0,493.0
+153,Commercial,Retail Strip Mall,"120 E FRONT ST, Traverse City, Michigan, USA","120 E Front St Loft 2, Traverse City, MI 49684, USA",1,1321,1868,6000,6.3,440.0
+154,Commercial,Retail Strip Mall,"210 E FRONT ST, Traverse City, Michigan, USA","210 E Front St, Traverse City, MI 49684, USA",1,1327,3365,5000,6.3,440.0
+155,Commercial,Residential Home,"327 W FOURTEENTH ST, Traverse City, Michigan, USA",Not Found,,,,,,
+156,Commercial,Medium Office,"610 WOODMERE AVE, Traverse City, Michigan, USA","610 Woodmere Ave, Traverse City, MI 49686, USA",1,1417,23115,6000,5.8,405.0
+157,Commercial,Medium Office,"400 W FRONT ST, Traverse City, Michigan, USA","400 W Front St #206, Traverse City, MI 49684, USA",1,1435,6572,6000,6.0,423.0
+158,Commercial,Retail Strip Mall,"120 E FRONT ST, Traverse City, Michigan, USA","120 E Front St Loft 2, Traverse City, MI 49684, USA",1,1321,1868,6000,6.3,440.0
+159,Commercial,Small Hotel,"721 INDIAN TRAIL BLVD, Traverse City, Michigan, USA","721 Indian Trail Blvd, Traverse City, MI 49686, USA",1,1194,3242,4000,7.3,511.0
+160,Commercial,Small Office,"955 E EIGHTH ST, Traverse City, Michigan, USA","955 E Eighth St A, Traverse City, MI 49686, USA",1,1280,2625,5000,6.5,458.0
+161,Commercial,Retail Strip Mall,"1128 S GARFIELD AVE, Traverse City, Michigan, USA","1128 S Garfield Ave, Traverse City, MI 49686, USA",1,1311,3911,5000,6.3,440.0
+162,Commercial,Religious worship ,"1023 S DIVISION ST, Traverse City, Michigan, USA","1023 S Division St, Traverse City, MI 49684, USA",1,1428,9866,6000,5.8,405.0
+163,Commercial,Residential Home,"1003 E FRONT ST, Traverse City, Michigan, USA","995 E Front St, Traverse City, MI 49686, USA",0,1161,300,200,4.3,300.0
+164,Commercial,Quick Service Restaurant,"346 E FRONT ST, Traverse City, Michigan, USA","340 E Front St, Traverse City, MI 49684, USA",0,1328,3964,6000,6.3,440.0
+165,Commercial,Small Hotel,"894 MUNSON AVE, Traverse City, Michigan, USA","890 Munson Ave, Traverse City, MI 49686, USA",0,1180,1110,4000,7.3,511.0
+166,Commercial,Outpatient,"403 E STATE ST, Traverse City, Michigan, USA","403 E State St, Traverse City, MI 49686, USA",1,1347,2625,6000,6.3,440.0
+167,Commercial,Large Hotel,"1773 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+168,Commercial,Midrise Apartment,"100 HOPE ST STE, Traverse City, Michigan, USA","100 Hope St, Traverse City, MI 49686, USA",1,1414,3259,6000,6.0,423.0
+169,Commercial,Small Office,"940 E EIGHTH ST, Traverse City, Michigan, USA","940 E Eighth St, Traverse City, MI 49686, USA",1,1412,916,5000,6.5,458.0
+170,Commercial,Retail Strip Mall,"1142 E EIGHTH ST, Traverse City, Michigan, USA","1142 E Eighth St #104, Traverse City, MI 49686, USA",1,1321,2978,5000,6.3,440.0
+171,Commercial,Warehouse,"2291 TRAVERSEFIELD DR, Traverse City, Michigan, USA",Not Found,,,,,,
+172,Commercial,Small Hotel,"841 FERN ST, Traverse City, Michigan, USA","837 Fern St, Traverse City, MI 49686, USA",0,1091,1885,2000,8.3,581.0
+173,Commercial,Retirement Community,"521 COTTAGEVIEW DR, Traverse City, Michigan, USA","521 Cottageview Dr, Traverse City, MI 49684, USA",1,1395,6906,6000,6.0,423.0
+174,Commercial,Retail Strip Mall,"207 E FRONT ST, Traverse City, Michigan, USA","207 E Front St, Traverse City, MI 49684, USA",1,1093,934,2000,8.0,564.0
+175,Commercial,Small Office,"1433 BARLOW ST UNIT, Traverse City, Michigan, USA","1433 Barlow St, Traverse City, MI 49686, USA",1,1433,3947,6000,5.8,405.0
+176,Commercial,Retail Strip Mall,"140 E FRONT ST, Traverse City, Michigan, USA","140 E Front St # B, Traverse City, MI 49684, USA",1,1387,5197,6000,6.0,423.0
+177,Commercial,Residential Home,"325 WASHINGTON ST, Traverse City, Michigan, USA","325 Washington St, Traverse City, MI 49684, USA",1,1330,828,4000,7.0,493.0
+178,Commercial,Small Hotel,"440 MUNSON AVE, Traverse City, Michigan, USA","460 Munson Ave US HWY 31, Traverse City, MI 49686, USA",0,1411,14429,6000,5.8,405.0
+179,Commercial,Small Hotel,"1508 NEWPORT ST HOUSE, Traverse City, Michigan, USA","1508 Newport St, Traverse City, MI 49686, USA",1,1169,934,3000,7.8,546.0
+180,Commercial,Full Service Restaurant,"541 W FRONT ST, Traverse City, Michigan, USA","541 W Front St, Traverse City, MI 49684, USA",1,1311,810,5000,6.3,440.0
+181,Commercial,Midrise Apartment,"870 E FRONT ST, Traverse City, Michigan, USA","872 E Front St, Traverse City, MI 49686, USA",0,1252,2079,4000,7.0,493.0
+182,Commercial,Retail Strip Mall,"800 COTTAGEVIEW DR STE, Traverse City, Michigan, USA","1200 W Eleventh St, Traverse City, MI 49684, USA",0,1399,63197,6000,5.8,405.0
+183,Commercial,Medium Office,"315 N DIVISION ST, Traverse City, Michigan, USA","315t N Division St, Traverse City, MI 49684, USA",0,1431,4916,6000,5.8,405.0
+184,Commercial,Retail Strip Mall,"145 E FRONT ST, Traverse City, Michigan, USA","145 E Front St, Traverse City, MI 49684, USA",1,1330,1903,6000,6.3,440.0
+185,Commercial,Small Office,"100 PARK ST, Traverse City, Michigan, USA","300 E Front St, Traverse City, MI 49684, USA",0,1425,6307,6000,6.0,423.0
+186,Commercial,Retail Strip Mall,"1116 CARVER ST, Traverse City, Michigan, USA","1117 Carver St, Traverse City, MI 49686, USA",0,1275,2185,5000,6.5,458.0
+187,Commercial,Small Hotel,"100 HOPE ST STE, Traverse City, Michigan, USA","100 Hope St, Traverse City, MI 49686, USA",1,1414,3259,6000,6.0,423.0
+188,Commercial,Medium Office,"333 W GRANDVIEW PKWY, Traverse City, Michigan, USA","333 W Grandview Pkwy, Traverse City, MI 49684, USA",1,1329,11822,6000,6.3,440.0
+189,Commercial,Other ,"0 E FRONT ST/BARLOW ST, Traverse City, Michigan, USA",Not Found,,,,,,
+190,Commercial,Outpatient,"4246 N THREE MILE RD, Traverse City, Michigan, USA","4200 N Three Mile Rd, Traverse City, MI 49686, USA",0,1084,987,1000,8.5,599.0
+191,Commercial,Retail Strip Mall,"326 E FRONT ST, Traverse City, Michigan, USA","324 E Front St, Traverse City, MI 49684, USA",0,1346,3700,5000,6.3,440.0
+192,Commercial,Residential Home,"638 E EIGHTH ST, Traverse City, Michigan, USA","638 E Eighth St, Traverse City, MI 49686, USA",1,1424,810,5000,6.8,476.0
+193,Commercial,Small Office,"414 E FRONT ST, Traverse City, Michigan, USA","440 E Front St, Traverse City, MI 49686, USA",0,1307,1586,5000,6.3,440.0
+194,Commercial,Retail Strip Mall,"104 S UNION ST, Traverse City, Michigan, USA","104 S Union St #201, Traverse City, MI 49684, USA",1,1325,4986,6000,6.3,440.0
+195,Commercial,Outpatient,"539 S GARFIELD AVE, Traverse City, Michigan, USA","537 S Garfield Ave # A, Traverse City, MI 49686, USA",0,1309,1744,5000,6.5,458.0
+196,Commercial,Retail Strip Mall,"111 E FRONT ST, Traverse City, Michigan, USA","111A E Front St, Traverse City, MI 49684, USA",0,1179,4493,4000,7.3,511.0
+197,Commercial,Warehouse,"3417 CASS RD, Traverse City, Michigan, USA","3417 Cass Rd, Traverse City, MI 49684, USA",1,1266,1533,5000,6.8,476.0
+198,Commercial,Residential Home,"838 FLORESTA ST, Traverse City, Michigan, USA","838 Floresta St, Traverse City, MI 49686, USA",1,1293,1286,4000,6.8,476.0
+199,Commercial,Retail Strip Mall,"1115 E EIGHTH ST, Traverse City, Michigan, USA","1121 E Eighth St, Traverse City, MI 49686, USA",0,1334,10730,6000,6.3,440.0
+200,Commercial,Small Hotel,"1216 CENTRE ST, Traverse City, Michigan, USA","1224 Centre St, Traverse City, MI 49686, USA",0,1304,2026,5000,6.3,440.0
+201,Commercial,Warehouse,"1415 PREMIER ST, Traverse City, Michigan, USA","1415 Premier St, Traverse City, MI 49686, USA",1,1426,1039,6000,5.8,405.0
+202,Commercial,Retail Strip Mall,"148 E FRONT ST, Traverse City, Michigan, USA","148 E Front St, Traverse City, MI 49684, USA",1,1335,4246,6000,6.3,440.0
+203,Commercial,Retail Strip Mall,"3007 N GARFIELD RD, Traverse City, Michigan, USA","3007 S Garfield Ave, Traverse City, MI 49686, USA",1,1378,4827,5000,6.5,458.0
+204,Commercial,Retail Strip Mall,"110 E FRONT ST, Traverse City, Michigan, USA","110 E Front St, Traverse City, MI 49684, USA",1,1332,7206,6000,6.3,440.0
+205,Commercial,Retail Strip Mall,"322 E FRONT ST, Traverse City, Michigan, USA","324 E Front St, Traverse City, MI 49684, USA",0,1349,2942,5000,6.3,440.0
+206,Commercial,Full Service Restaurant,"113 S PARK ST, Traverse City, Michigan, USA","300 E Front St, Traverse City, MI 49684, USA",0,1425,6307,6000,6.0,423.0
+207,Commercial,Retail Strip Mall,"415 E FRONT ST #P1A, Traverse City, Michigan, USA","415 E Front St Suite 4, Traverse City, MI 49686, USA",1,1415,1480,5000,6.5,458.0
+208,Commercial,Retail Strip Mall,"1047 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1073 W South Airport Rd, Traverse City, MI 49686, USA",0,1407,12421,6000,5.8,405.0
+209,Commercial,Retail Strip Mall,"131 E STATE ST, Traverse City, Michigan, USA","129 E State St, Traverse City, MI 49684, USA",0,1300,1920,5000,6.5,458.0
+210,Commercial,Small Hotel,"124 BEECH ST, Traverse City, Michigan, USA","124 Beech St, Traverse City, MI 49684, USA",1,1311,3753,5000,6.3,440.0
+211,Commercial,Midrise Apartment,"537 BAY ST, Traverse City, Michigan, USA","539 Bay St, Traverse City, MI 49684, USA",0,1278,2731,5000,6.5,458.0
+212,Commercial,Small Office,"801 WOODMERE AVE, Traverse City, Michigan, USA","801 Woodmere Ave, Traverse City, MI 49686, USA",1,1421,5779,6000,5.8,405.0
+213,Commercial,Other ,"6004 CENTER RD, Traverse City, Michigan, USA","1330 N Orchard Dr, Traverse City, MI 49686, USA",0,1379,1374,5000,6.3,440.0
+214,Commercial,Retail Strip Mall,"300 E FRONT ST, Traverse City, Michigan, USA","300 E Front St, Traverse City, MI 49684, USA",1,1425,6307,6000,6.0,423.0
+215,Commercial,Other ,"0 EIGHTH & MUNSON AVE, Traverse City, Michigan, USA","801 Munson Ave, Traverse City, MI 49686, USA",0,1409,1727,6000,6.0,423.0
+216,Commercial,Small Office,"717 WOODMERE AVE, Traverse City, Michigan, USA","717 Woodmere Ave, Traverse City, MI 49686, USA",1,1387,2731,6000,6.0,423.0
+217,Commercial,Retail Strip Mall,"151 E FRONT ST, Traverse City, Michigan, USA","151 E Front St, Traverse City, MI 49684, USA",1,1316,3277,5000,6.3,440.0
+218,Commercial,Residential Home,"812 W FRONT ST, Traverse City, Michigan, USA","812 W Front St, Traverse City, MI 49684, USA",1,1238,1586,4000,7.3,511.0
+219,Commercial,Residential Home,"928 E FRONT ST, Traverse City, Michigan, USA",Not Found,,,,,,
+220,Commercial,Retail Strip Mall,"140 E FRONT ST, Traverse City, Michigan, USA","140 E Front St # B, Traverse City, MI 49684, USA",1,1387,5197,6000,6.0,423.0
+221,Commercial,Small Office,"3134 LOGAN VALLEY RD, Traverse City, Michigan, USA","3130 Logan Valley Rd, Traverse City, MI 49686, USA",0,1438,2837,6000,5.8,405.0
+222,Commercial,Small Hotel,"545 RIVERINE DR, Traverse City, Michigan, USA","545 Riverine Dr, Traverse City, MI 49684, USA",1,1350,5867,6000,6.3,440.0
+223,Commercial,Warehouse,"2314 SYBRANDT RD, Traverse City, Michigan, USA","2314 Sybrandt Rd, Traverse City, MI 49684, USA",1,1357,159552,7000,5.8,405.0
+224,Commercial,Warehouse,"2296 CASS RD, Traverse City, Michigan, USA","2296 Cass Rd, Traverse City, MI 49684, USA",1,1359,3999,6000,6.3,440.0
+225,Commercial,Retail Strip Mall,"128 S UNION ST PANEL, Traverse City, Michigan, USA","128 S Union St, Traverse City, MI 49684, USA",1,1435,5726,6000,5.8,405.0
+226,Commercial,Midrise Apartment,"630 S GARFIELD AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+227,Commercial,Warehouse,"807 LAKE AVE, Traverse City, Michigan, USA","807 Lake Ave, Traverse City, MI 49684, USA",1,1299,3312,5000,6.3,440.0
+228,Commercial,Retail Strip Mall,"332 E FRONT ST, Traverse City, Michigan, USA","324 E Front St, Traverse City, MI 49684, USA",0,1346,3700,5000,6.3,440.0
+229,Commercial,Retail Strip Mall,"313 E FRONT ST, Traverse City, Michigan, USA","313 E Front St, Traverse City, MI 49686, USA",1,1330,7664,6000,6.3,440.0
+230,Commercial,Retail Strip Mall,"1128 E EIGHTH ST, Traverse City, Michigan, USA","1132 E Eighth St, Traverse City, MI 49686, USA",0,1321,7541,6000,6.3,440.0
+231,Commercial,Retail Strip Mall,"1043 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","3211 N Garfield Rd, Traverse City, MI 49686, USA",0,1434,5321,7000,5.8,405.0
+232,Commercial,Outpatient,"1525 CASS ST, Traverse City, Michigan, USA",Not Found,,,,,,
+233,Commercial,Medium Office,"305 W FRONT ST 2ND, Traverse City, Michigan, USA","302 W Front St, Traverse City, MI 49684, USA",0,1310,599,5000,6.5,458.0
+234,Commercial,Residential Home,"516 SHERIDAN RD, Traverse City, Michigan, USA","516 Sheridan Rd, Traverse City, MI 49686, USA",1,1303,1233,5000,6.8,476.0
+235,Commercial,Residential Home,"530 S UNION ST, Traverse City, Michigan, USA","530 S Union St, Traverse City, MI 49684, USA",1,1318,951,5000,6.5,458.0
+236,Commercial,Large Hotel,"3950 SCENIC RIDGE, Traverse City, Michigan, USA","3950 Scenic Ridge, Traverse City, MI 49684, USA",1,1448,758,5000,6.5,458.0
+237,Commercial,Other ,"104 E GRANDVIEW PKWY CFEST, Traverse City, Michigan, USA",Not Found,,,,,,
+238,Commercial,Warehouse,"2670 AERO PARK DR, Traverse City, Michigan, USA","2670 Aero-Park Dr, Traverse City, MI 49686, USA",1,1348,22763,6000,6.0,423.0
+239,Commercial,Small Office,"225 E FOURTEENTH ST, Traverse City, Michigan, USA","225 E Fourteenth St, Traverse City, MI 49684, USA",1,1322,5902,6000,6.3,440.0
+240,Commercial,Warehouse,"911 LYNCH DR, Traverse City, Michigan, USA","44.7302434, -85.5934004",0,1399,33246,7000,5.8,405.0
+241,Commercial,Small Office,"510 DEPOT VIEW DR, Traverse City, Michigan, USA","510 Depot View Dr, Traverse City, MI 49686, USA",1,1430,1075,5000,6.3,440.0
+242,Commercial,Supermarket,"517 W FRONT ST, Traverse City, Michigan, USA","509 W Front St, Traverse City, MI 49684, USA",0,1381,6325,6000,6.0,423.0
+243,Commercial,Retail Strip Mall,"1026 HANNAH AVE, Traverse City, Michigan, USA","1026 Hannah Ave Ste. A, Traverse City, MI 49686, USA",1,1320,8404,6000,6.3,440.0
+244,Commercial,Retail Strip Mall,"104 S UNION ST, Traverse City, Michigan, USA","104 S Union St #201, Traverse City, MI 49684, USA",1,1325,4986,6000,6.3,440.0
+245,Commercial,Small Office,"876 E EIGHTH ST, Traverse City, Michigan, USA","876 E Eighth St, Traverse City, MI 49686, USA",1,1320,652,4000,6.8,476.0
+246,Commercial,Other ,"191 MARINA DR DCFC, Traverse City, Michigan, USA","101 W Grandview Pkwy, Traverse City, MI 49684, USA",0,1313,2519,5000,6.3,440.0
+247,Commercial,Warehouse,"921 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","921 W South Airport Rd, Traverse City, MI 49686, USA",1,1451,4087,7000,5.8,405.0
+248,Commercial,Retail Strip Mall,"1606 BARLOW ST, Traverse City, Michigan, USA","1600 Barlow St, Traverse City, MI 49686, USA",0,1301,11293,5000,6.3,440.0
+249,Commercial,Small Hotel,"1401 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+250,Commercial,Retail Strip Mall,"830 COTTAGEVIEW DR STE, Traverse City, Michigan, USA",Not Found,,,,,,
+251,Commercial,Retail Strip Mall,"1373 BARLOW ST, Traverse City, Michigan, USA","1373 Barlow St, Traverse City, MI 49686, USA",1,1318,6906,5000,6.3,440.0
+252,Commercial,Midrise Apartment,"525 GEORGETOWN DR, Traverse City, Michigan, USA","525 Georgetown Dr, Traverse City, MI 49684, USA",1,1415,4105,6000,6.0,423.0
+253,Commercial,Small Office,"940 E EIGHTH ST, Traverse City, Michigan, USA","940 E Eighth St, Traverse City, MI 49686, USA",1,1412,916,5000,6.5,458.0
+254,Commercial,Retail Strip Mall,"1606 BARLOW ST, Traverse City, Michigan, USA","1600 Barlow St, Traverse City, MI 49686, USA",0,1301,11293,5000,6.3,440.0
+255,Commercial,Small Office,"3287 RACQUET CLUB DR, Traverse City, Michigan, USA","3287 Racquet Club Dr, Traverse City, MI 49684, USA",1,1368,3295,5000,6.3,440.0
+256,Commercial,Small Hotel,"1489 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+257,Commercial,Warehouse,"233 E TWELFTH ST, Traverse City, Michigan, USA","233 E Twelfth St, Traverse City, MI 49684, USA",1,1325,1938,5000,6.3,440.0
+258,Commercial,Retail Strip Mall,"126 BOARDMAN AVE, Traverse City, Michigan, USA","120 Boardman Ave, Traverse City, MI 49684, USA",0,1431,6977,6000,5.8,405.0
+259,Commercial,Retail Standalone,"720 S GARFIELD AVE, Traverse City, Michigan, USA","720 S Garfield Ave, Traverse City, MI 49686, USA",1,1427,5902,6000,5.8,405.0
+260,Commercial,Small Office,"1515 CASS ST, Traverse City, Michigan, USA",Not Found,,,,,,
+261,Commercial,Small Office,"3141 LOGAN VALLEY RD, Traverse City, Michigan, USA","3141 Logan Valley Rd, Traverse City, MI 49684, USA",1,1431,2995,6000,5.8,405.0
+262,Commercial,Small Office,"1125 WEST CIVIC CENTER DR, Traverse City, Michigan, USA","1125 W Civic Center Dr, Traverse City, MI 49686, USA",1,1272,6695,5000,6.5,458.0
+263,Commercial,Full Service Restaurant,"237 LAKE AVE STE, Traverse City, Michigan, USA","237 Lake Ave, Traverse City, MI 49684, USA",1,1345,1480,5000,6.3,440.0
+264,Commercial,Small Hotel,"537 BAY ST, Traverse City, Michigan, USA","539 Bay St, Traverse City, MI 49684, USA",0,1278,2731,5000,6.5,458.0
+265,Commercial,Midrise Apartment,"431 MUNSON AVE, Traverse City, Michigan, USA","431 Munson Ave Ste C, Traverse City, MI 49686, USA",1,1342,5356,6000,6.3,440.0
+266,Commercial,Religious worship ,"748 E STATE ST, Traverse City, Michigan, USA","748 E State St, Traverse City, MI 49686, USA",1,1227,4933,5000,6.8,476.0
+267,Commercial,Retail Strip Mall,"148 E FRONT ST, Traverse City, Michigan, USA","148 E Front St, Traverse City, MI 49684, USA",1,1335,4246,6000,6.3,440.0
+268,Commercial,Outpatient,"3643 W FRONT ST, Traverse City, Michigan, USA","3643 W Front St STE C, Traverse City, MI 49684, USA",1,1358,12650,6000,6.0,423.0
+269,Commercial,Warehouse,"2823 CASS RD, Traverse City, Michigan, USA","2823 Cass Rd, Traverse City, MI 49684, USA",1,1321,22340,6000,6.3,440.0
+270,Commercial,Retail Standalone,"843 S GARFIELD AVE, Traverse City, Michigan, USA","839 S Garfield Ave, Traverse City, MI 49686, USA",0,1325,29317,6000,6.3,440.0
+271,Commercial,Other ,"0 MUNSON AVE & N THREE MILE, Traverse City, Michigan, USA",Not Found,,,,,,
+272,Commercial,Small Office,"803 W FRONT ST, Traverse City, Michigan, USA","801 W Front St, Traverse City, MI 49684, USA",0,1360,6184,6000,6.0,423.0
+273,Commercial,Other ,"1129 E EIGHTH ST, Traverse City, Michigan, USA","1131 E Eighth St, Traverse City, MI 49686, USA",0,1437,3259,6000,6.0,423.0
+274,Commercial,Small Hotel,"309 CASS ST, Traverse City, Michigan, USA","309 Cass St, Traverse City, MI 49684, USA",1,1369,3788,6000,6.3,440.0
+275,Commercial,Retail Strip Mall,"845 S GARFIELD AVE, Traverse City, Michigan, USA","839 S Garfield Ave, Traverse City, MI 49686, USA",0,1325,29317,6000,6.3,440.0
+276,Commercial,Retail Standalone,"736 E EIGHTH ST, Traverse City, Michigan, USA","736 E Eighth St, Traverse City, MI 49686, USA",1,1327,7682,6000,6.3,440.0
+277,Commercial,Residential Home,"12868 S WEST BAY SHORE DR, Traverse City, Michigan, USA","12868 S W Bay Shore Dr, Traverse City, MI 49684, USA",1,1236,2026,4000,7.0,493.0
+278,Commercial,Small Office,"534 E FRONT ST, Traverse City, Michigan, USA","534 E Front St, Traverse City, MI 49686, USA",1,1438,3999,7000,5.8,405.0
+279,Commercial,Retail Strip Mall,"116 S UNION ST, Traverse City, Michigan, USA","116 S Union St, Traverse City, MI 49684, USA",1,1346,2784,6000,6.3,440.0
+280,Commercial,Small Hotel,"853 E FRONT ST, Traverse City, Michigan, USA","853 E Front St, Traverse City, MI 49686, USA",1,1305,881,4000,7.0,493.0
+281,Commercial,Outpatient,"539 S GARFIELD AVE, Traverse City, Michigan, USA","537 S Garfield Ave # A, Traverse City, MI 49686, USA",0,1309,1744,5000,6.5,458.0
+282,Commercial,Warehouse,"2040 CASS RD, Traverse City, Michigan, USA","2040 Cass Rd, Traverse City, MI 49684, USA",1,1344,6237,6000,6.0,423.0
+283,Commercial,Midrise Apartment,"150 PINE ST, Traverse City, Michigan, USA","150 Pine St, Traverse City, MI 49684, USA",1,1437,5426,6000,5.8,405.0
+284,Commercial,Other ,"660 HANNAH AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+285,Commercial,Small Office,"868 ROBINWOOD CT, Traverse City, Michigan, USA","868 Robinwood Ct, Traverse City, MI 49686, USA",1,1128,2801,3000,7.5,529.0
+286,Commercial,Outpatient,"647 E EIGHTH ST, Traverse City, Michigan, USA","647 E Eighth St, Traverse City, MI 49686, USA",1,1199,846,3000,7.8,546.0
+287,Commercial,Midrise Apartment,"10101 EAST TRAVERSE HWY, Traverse City, Michigan, USA",Not Found,,,,,,
+288,Commercial,Retail Strip Mall,"3003 N GARFIELD RD, Traverse City, Michigan, USA","3003 N Garfield Rd, Traverse City, MI 49686, USA",1,1318,5973,5000,6.3,440.0
+289,Commercial,Small Hotel,"13766 S WEST BAY SHORE DR, Traverse City, Michigan, USA","13766 S W Bay Shore Dr, Traverse City, MI 49684, USA",1,1392,493,4000,7.0,493.0
+290,Commercial,Small Office,"845 ROBINWOOD CT, Traverse City, Michigan, USA","845 Robinwood Ct, Traverse City, MI 49686, USA",1,1097,3083,3000,7.8,546.0
+291,Commercial,Retail Strip Mall,"223 E STATE ST, Traverse City, Michigan, USA","223 E State St #200, Traverse City, MI 49684, USA",1,1416,7329,6000,6.0,423.0
+292,Commercial,Warehouse,"1100 WOODMERE AVE, Traverse City, Michigan, USA","1100 Woodmere Ave, Traverse City, MI 49686, USA",1,1324,22499,6000,6.3,440.0
+293,Commercial,Warehouse,"1669 S GARFIELD AVE, Traverse City, Michigan, USA","1669 S Garfield Ave, Traverse City, MI 49686, USA",1,1343,24278,6000,6.0,423.0
+294,Commercial,Retail Standalone,"511 1/2 E EIGHTH ST, Traverse City, Michigan, USA","908 E Eighth St, Traverse City, MI 49686, USA",0,1418,3577,6000,6.0,423.0
+295,Commercial,Other ,"10497 W M 72, Traverse City, Michigan, USA","732 E Front St, Traverse City, MI 49686, USA",0,1319,1621,6000,6.3,440.0
+296,Commercial,Residential Home,"504 BARLOW ST, Traverse City, Michigan, USA","506 Barlow St, Traverse City, MI 49686, USA",0,1271,2220,5000,6.8,476.0
+297,Commercial,Outpatient,"201 S GARFIELD AVE, Traverse City, Michigan, USA","201 S Garfield Ave, Traverse City, MI 49686, USA",1,1312,2326,5000,6.3,440.0
+298,Commercial,Small Hotel,"853 E FRONT ST, Traverse City, Michigan, USA","853 E Front St, Traverse City, MI 49686, USA",1,1305,881,4000,7.0,493.0
+299,Commercial,Other ,"1235 WOODMERE AVE, Traverse City, Michigan, USA","1235 Woodmere Ave, Traverse City, MI 49686, USA",1,1328,5620,6000,6.3,440.0
+300,Commercial Demand,Other ,"0 US 31 NORTH & N FOUR MILE, Traverse City, Michigan, USA",Not Found,,,,,,
+301,Commercial Demand,Medium Office,"141 RIVERS EDGE DR, Traverse City, Michigan, USA","310 Cass St, Traverse City, MI 49684, USA",0,1394,11963,6000,6.0,423.0
+302,Commercial Demand,Outpatient,"1225 W FRONT ST, Traverse City, Michigan, USA","1225 W Front St, Traverse City, MI 49684, USA",1,1348,5726,6000,6.3,440.0
+303,Commercial Demand,Medium Office,"202 E STATE ST, Traverse City, Michigan, USA","202 E State St, Traverse City, MI 49684, USA",1,1437,9250,7000,5.8,405.0
+304,Commercial Demand,Other ,"125 E EIGHTH ST, Traverse City, Michigan, USA","125 E Eighth St, Traverse City, MI 49684, USA",1,1429,36787,7000,5.8,405.0
+305,Commercial Demand,Small Office,"1234 HASTINGS ST, Traverse City, Michigan, USA","1234 Hastings St, Traverse City, MI 49686, USA",1,1413,2925,6000,6.0,423.0
+306,Commercial Demand,Full Service Restaurant,"545 E EIGHTH ST, Traverse City, Michigan, USA","543 E Eighth St, Traverse City, MI 49686, USA",0,1323,5180,6000,6.3,440.0
+307,Commercial Demand,Quick Service Restaurant,"202 E FRONT ST, Traverse City, Michigan, USA","107 Cass St ste d, Traverse City, MI 49684, USA",0,1348,12157,6000,6.0,423.0
+308,Commercial Demand,Full Service Restaurant,"1125 CENTRE ST, Traverse City, Michigan, USA","1125 Centre St #3404, Traverse City, MI 49686, USA",1,1321,5726,6000,6.3,440.0
+309,Commercial Demand,Other ,"161 E GRANDVIEW PKWY, Traverse City, Michigan, USA","101 W Grandview Pkwy, Traverse City, MI 49684, USA",0,1436,863,6000,5.8,405.0
+310,Commercial Demand,Retail Standalone,"1794 BARLOW ST, Traverse City, Michigan, USA","1794 Barlow St, Traverse City, MI 49686, USA",1,1420,14359,6000,5.8,405.0
+311,Commercial Demand,Religious worship ,"1050 PENINSULA DR, Traverse City, Michigan, USA","1050 Peninsula Dr, Traverse City, MI 49686, USA",1,1441,6307,7000,5.8,405.0
+312,Commercial Demand,Midrise Apartment,"800 COTTAGEVIEW DR STE, Traverse City, Michigan, USA","1200 W Eleventh St, Traverse City, MI 49684, USA",0,1399,63197,6000,5.8,405.0
+313,Commercial Demand,Other ,"701 BAY ST, Traverse City, Michigan, USA","701 Wayne St, Traverse City, MI 49684, USA",1,1366,740,5000,6.3,440.0
+314,Commercial Demand,Full Service Restaurant,"520 FRANKLIN ST, Traverse City, Michigan, USA","520 Franklin St, Traverse City, MI 49686, USA",1,1258,1938,5000,6.8,476.0
+315,Commercial Demand,Retirement Community,"3950 SCENIC RIDGE, Traverse City, Michigan, USA","3950 Scenic Ridge, Traverse City, MI 49684, USA",1,1448,758,5000,6.5,458.0
+316,Commercial Demand,Full Service Restaurant,"117 S UNION ST, Traverse City, Michigan, USA","117 S Union St, Traverse City, MI 49684, USA",1,1329,2255,6000,6.3,440.0
+317,Commercial Demand,Small Office,"302 W FRONT ST, Traverse City, Michigan, USA","302 W Front St, Traverse City, MI 49684, USA",1,1310,599,5000,6.5,458.0
+318,Commercial Demand,Warehouse,"2475 N AERO PARK CT, Traverse City, Michigan, USA","2475 N Aero-Park Ct, Traverse City, MI 49686, USA",1,1319,29211,6000,6.3,440.0
+319,Commercial Demand,Warehouse,"1210 WOODMERE AVE, Traverse City, Michigan, USA","202 E State St, Traverse City, MI 49684, USA",0,1437,9250,7000,5.8,405.0
+320,Commercial Demand,Outpatient,"447 MUNSON AVE, Traverse City, Michigan, USA","447 Munson Ave, Traverse City, MI 49686, USA",1,1116,3841,3000,7.5,529.0
+321,Commercial Demand,Small Hotel,"1401 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+322,Commercial Demand,Small Office,"1135 WOODMERE AVE, Traverse City, Michigan, USA","1137 Woodmere Ave, Traverse City, MI 49686, USA",0,1408,6360,6000,5.8,405.0
+323,Commercial Demand,Retail Standalone,"748 E EIGHTH ST, Traverse City, Michigan, USA","737 E Eighth St, Traverse City, MI 49686, USA",0,1301,581,2000,8.0,564.0
+324,Commercial Demand,Retail Strip Mall,"222 E FRONT ST, Traverse City, Michigan, USA","222 E Front St, Traverse City, MI 49684, USA",1,1295,2801,5000,6.5,458.0
+325,Commercial Demand,Retail Strip Mall,"101 W FRONT ST, Traverse City, Michigan, USA","104 S Union St #201, Traverse City, MI 49684, USA",0,1325,4986,6000,6.3,440.0
+326,Commercial Demand,Retail Strip Mall,"212 E FRONT ST, Traverse City, Michigan, USA","212 E Front St, Traverse City, MI 49684, USA",1,1388,3242,6000,6.3,440.0
+327,Commercial Demand,Medium Office,"610 WOODMERE AVE, Traverse City, Michigan, USA","610 Woodmere Ave, Traverse City, MI 49686, USA",1,1417,23115,6000,5.8,405.0
+328,Commercial Demand,Quick Service Restaurant,"531 W FOURTEENTH ST, Traverse City, Michigan, USA","535 W Fourteenth St, Traverse City, MI 49684, USA",0,1323,7893,6000,6.3,440.0
+329,Commercial Demand,Retail Strip Mall,"238 E FRONT ST, Traverse City, Michigan, USA","250 E Front St Suite 110, Traverse City, MI 49684, USA",0,1332,1251,6000,6.3,440.0
+330,Commercial Demand,Small Office,"1407 S DIVISION ST, Traverse City, Michigan, USA",Not Found,,,,,,
+331,Commercial Demand,Retail Strip Mall,"539 W FRONT ST, Traverse City, Michigan, USA","541 W Front St, Traverse City, MI 49684, USA",0,1320,2097,5000,6.3,440.0
+332,Commercial Demand,Secondary School,"933 ROSE ST, Traverse City, Michigan, USA","933 Rose St, Traverse City, MI 49686, USA",1,1421,47094,7000,5.8,405.0
+333,Commercial Demand,Medium Office,"105 HALL ST, Traverse City, Michigan, USA","105 Hall St A, Traverse City, MI 49684, USA",1,1441,13496,7000,5.8,405.0
+334,Commercial Demand,Warehouse,"1670 BARLOW ST, Traverse City, Michigan, USA","1670 Barlow St, Traverse City, MI 49686, USA",1,1324,12350,6000,6.3,440.0
+335,Commercial Demand,Retail Standalone,"3211 N GARFIELD RD, Traverse City, Michigan, USA","3211 N Garfield Rd, Traverse City, MI 49686, USA",1,1434,5321,7000,5.8,405.0
+336,Commercial Demand,Full Service Restaurant,"525 W FRONT ST, Traverse City, Michigan, USA","525 W Front St suite e, Traverse City, MI 49684, USA",1,1340,6484,6000,6.3,440.0
+337,Commercial Demand,Retirement Community,"3850 SCENIC RIDGE, Traverse City, Michigan, USA","3850 Scenic Ridge, Traverse City, MI 49684, USA",1,1446,30497,7000,5.8,405.0
+338,Commercial Demand,Retail Standalone,"2487 RICE ST, Traverse City, Michigan, USA","2487 Rice St, Traverse City, MI 49684, USA",1,1336,10818,6000,6.3,440.0
+339,Commercial Demand,Small Office,"860 E FRONT ST, Traverse City, Michigan, USA","860 E Front St, Traverse City, MI 49686, USA",1,1433,4563,6000,5.8,405.0
+340,Commercial Demand,Small Office,"2604 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","2604 W South Airport Rd, Traverse City, MI 49684, USA",1,1422,8756,6000,5.8,405.0
+341,Commercial Demand,Full Service Restaurant,"3980 N US 31 SOUTH, Traverse City, Michigan, USA",Not Found,,,,,,
+342,Commercial Demand,Retail Strip Mall,"1123 E EIGHTH ST, Traverse City, Michigan, USA","1121 E Eighth St, Traverse City, MI 49686, USA",0,1334,10730,6000,6.3,440.0
+343,Commercial Demand,Medium Office,"305 W FRONT ST, Traverse City, Michigan, USA","302 W Front St, Traverse City, MI 49684, USA",0,1310,599,5000,6.5,458.0
+344,Commercial Demand,Retail Standalone,"736 E EIGHTH ST, Traverse City, Michigan, USA","736 E Eighth St, Traverse City, MI 49686, USA",1,1327,7682,6000,6.3,440.0
+345,Commercial Demand,Warehouse,"2325 SYBRANDT RD, Traverse City, Michigan, USA","2325 Sybrant Rd, Traverse City, MI 49684, USA",1,1337,58986,6000,6.0,423.0
+346,Commercial Demand,Small Office,"735 S GARFIELD AVE, Traverse City, Michigan, USA","735 S Garfield Ave, Traverse City, MI 49686, USA",1,1430,5867,6000,5.8,405.0
+347,Commercial Demand,Warehouse,"1220 E FRONT ST, Traverse City, Michigan, USA","1201 E Front St, Traverse City, MI 49686, USA",0,1408,1286,6000,6.0,423.0
+348,Commercial Demand,Other ,"321 B W THIRTEENTH ST, Traverse City, Michigan, USA","321 W Thirteenth St, Traverse City, MI 49684, USA",1,1449,12121,7000,5.8,405.0
+349,Commercial Demand,Retail Standalone,"1029 HANNAH AVE, Traverse City, Michigan, USA","1029 Hannah Ave, Traverse City, MI 49686, USA",1,1433,2079,6000,5.8,405.0
+350,Commercial Demand,Warehouse,"1600 BARLOW ST, Traverse City, Michigan, USA","1600 Barlow St, Traverse City, MI 49686, USA",1,1301,11293,5000,6.3,440.0
+351,Commercial Demand,Retail Standalone,"124 COCHLIN ST, Traverse City, Michigan, USA","118 Munson Ave ste b, Traverse City, MI 49686, USA",0,1262,652,4000,6.8,476.0
+352,Commercial Demand,Medium Office,"13919 S WEST BAY SHORE DR, Traverse City, Michigan, USA","13919 S W Bay Shore Dr # 208, Traverse City, MI 49684, USA",1,1397,7928,6000,6.0,423.0
+353,Commercial Demand,Medium Office,"880 PARSONS RD, Traverse City, Michigan, USA","880 Parsons Rd, Traverse City, MI 49686, USA",1,1330,111418,6000,6.0,423.0
+354,Commercial Demand,Medium Office,"315 E FRONT ST, Traverse City, Michigan, USA","313 E Front St, Traverse City, MI 49686, USA",0,1330,7664,6000,6.3,440.0
+355,Commercial Demand,Retail Standalone,"505 W FRONT ST, Traverse City, Michigan, USA","110 S Oak St, Traverse City, MI 49684, USA",0,1299,1973,5000,6.5,458.0
+356,Commercial Demand,Quick Service Restaurant,"1060 E FRONT ST, Traverse City, Michigan, USA","1060 E Front St, Traverse City, MI 49686, USA",1,1401,1092,5000,6.3,440.0
+357,Commercial Demand,Warehouse,"1247 BOON ST, Traverse City, Michigan, USA","1247 Boon St, Traverse City, MI 49686, USA",1,1314,25141,5000,6.3,440.0
+358,Commercial Demand,Warehouse,"887 LYNCH DR, Traverse City, Michigan, USA","887 Lynch Dr, Traverse City, MI 49686, USA",1,1399,33246,7000,5.8,405.0
+359,Commercial Demand,Midrise Apartment,"800 COTTAGEVIEW DR STE, Traverse City, Michigan, USA","1200 W Eleventh St, Traverse City, MI 49684, USA",0,1399,63197,6000,5.8,405.0
+360,Commercial Demand,Warehouse,"1244 CARVER ST, Traverse City, Michigan, USA","1244 Carver St Ste A, Traverse City, MI 49686, USA",1,1318,14976,5000,6.3,440.0
+361,Commercial Demand,Medium Office,"810 COTTAGEVIEW DR, Traverse City, Michigan, USA","810 Cottageview Dr #102, Traverse City, MI 49684, USA",1,1373,4986,6000,6.0,423.0
+362,Commercial Demand,Retail Strip Mall,"441 E FRONT ST, Traverse City, Michigan, USA","441 E Front St, Traverse City, MI 49686, USA",1,1422,3647,6000,5.8,405.0
+363,Commercial Demand,Retail Standalone,"1142 BARLOW ST, Traverse City, Michigan, USA","1142 Barlow St, Traverse City, MI 49686, USA",1,1337,2837,6000,6.3,440.0
+364,Commercial Demand,Full Service Restaurant,"300 E FRONT ST, Traverse City, Michigan, USA","300 E Front St, Traverse City, MI 49684, USA",1,1425,6307,6000,6.0,423.0
+365,Commercial Demand,Small Hotel,"1500 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+366,Commercial Demand,Retail Strip Mall,"1545 S DIVISION ST, Traverse City, Michigan, USA","1545 S Division St Suite 118, Traverse City, MI 49684, USA",1,1302,12280,5000,6.3,440.0
+367,Commercial Demand,Full Service Restaurant,"519 W FRONT ST, Traverse City, Michigan, USA","509 W Front St, Traverse City, MI 49684, USA",0,1381,6325,6000,6.0,423.0
+368,Commercial Demand,Retail Standalone,"724 MUNSON AVE, Traverse City, Michigan, USA","724 Munson Ave, Traverse City, MI 49686, USA",1,1358,19733,6000,6.3,440.0
+369,Commercial Demand,Other ,"320 SIXTH ST, Traverse City, Michigan, USA","326 6th St, Traverse City, MI 49684, USA",0,1427,3295,6000,5.8,405.0
+370,Commercial Demand,Outpatient,"1010 S GARFIELD AVE, Traverse City, Michigan, USA","1010 S Garfield Ave, Traverse City, MI 49686, USA",1,1078,2942,2000,8.3,581.0
+371,Commercial Demand,Small Hotel,"833 E FRONT ST, Traverse City, Michigan, USA","833 E Front St, Traverse City, MI 49686, USA",1,1336,21794,6000,6.0,423.0
+372,Commercial Demand,Retirement Community,"521 COTTAGEVIEW DR, Traverse City, Michigan, USA","521 Cottageview Dr, Traverse City, MI 49684, USA",1,1395,6906,6000,6.0,423.0
+373,Commercial Demand,Warehouse,"835 LYNCH DR, Traverse City, Michigan, USA",Not Found,,,,,,
+374,Commercial Demand,Warehouse,"1150 AIRPORT ACCESS RD, Traverse City, Michigan, USA","1150 Airport Access Rd, Traverse City, MI 49686, USA",1,1361,9602,6000,6.0,423.0
+375,Commercial Demand,Retail Strip Mall,"234 E FRONT ST, Traverse City, Michigan, USA","232 E Front St, Traverse City, MI 49684, USA",0,1333,4035,6000,6.3,440.0
+376,Commercial Demand,Medium Office,"333 W GRANDVIEW PKWY -3RD, Traverse City, Michigan, USA","333 W Grandview Pkwy, Traverse City, MI 49684, USA",1,1329,11822,6000,6.3,440.0
+377,Commercial Demand,Medium Office,"400 W FRONT ST, Traverse City, Michigan, USA","400 W Front St #206, Traverse City, MI 49684, USA",1,1435,6572,6000,6.0,423.0
+378,Commercial Demand,Retail Standalone,"3900 N US 31 SOUTH, Traverse City, Michigan, USA",Not Found,,,,,,
+379,Commercial Demand,Small Hotel,"2950 LAFRANIER RD, Traverse City, Michigan, USA","2950 Lafranier Rd, Traverse City, MI 49686, USA",1,1313,40822,5000,6.3,440.0
+380,Commercial Demand,Warehouse,"1331 S GARFIELD AVE, Traverse City, Michigan, USA","1331 S Garfield Ave, Traverse City, MI 49686, USA",1,1449,8087,6000,5.8,405.0
+381,Commercial Demand,Retail Strip Mall,"907 WOODMERE AVE, Traverse City, Michigan, USA","907 Woodmere Ave, Traverse City, MI 49686, USA",1,1318,7946,5000,6.3,440.0
+382,Commercial Demand,Small Office,"402 E FRONT ST, Traverse City, Michigan, USA","402 E Front St, Traverse City, MI 49686, USA",1,1335,3929,6000,6.3,440.0
+383,Commercial Demand,Quick Service Restaurant,"908 E EIGHTH ST, Traverse City, Michigan, USA","908 E Eighth St, Traverse City, MI 49686, USA",1,1418,3577,6000,6.0,423.0
+384,Commercial Demand,Medium Office,"830 E FRONT ST, Traverse City, Michigan, USA","830 E Front St Suite 204, Traverse City, MI 49686, USA",1,1416,4475,6000,5.8,405.0
+385,Commercial Demand,Medium Office,"10850 EAST TRAVERSE HWY, Traverse City, Michigan, USA","10850 E Traverse Hwy Suite #3375, Traverse City, MI 49684, USA",1,1318,15328,6000,6.3,440.0
+386,Commercial Demand,Full Service Restaurant,"1120 CARVER ST, Traverse City, Michigan, USA","1120 Carver St, Traverse City, MI 49686, USA",1,1346,2255,6000,6.3,440.0
+387,Commercial Demand,Supermarket,"260 E TENTH ST, Traverse City, Michigan, USA","260 E Tenth St, Traverse City, MI 49684, USA",1,1403,10060,6000,6.0,423.0
+388,Commercial Demand,Secondary School,"412 WEBSTER ST, Traverse City, Michigan, USA","412 Webster St, Traverse City, MI 49686, USA",1,1330,8615,6000,6.3,440.0
+389,Commercial Demand,Warehouse,"2779 AERO PARK DR, Traverse City, Michigan, USA",Not Found,,,,,,
+390,Commercial Demand,Medium Office,"820 RED DR, Traverse City, Michigan, USA","820 Red Dr, Traverse City, MI 49684, USA",1,1312,22093,6000,6.3,440.0
+391,Commercial Demand,Warehouse,"2651 AERO PARK DR, Traverse City, Michigan, USA","2651 Aero-Park Dr, Traverse City, MI 49686, USA",1,1325,51622,6000,6.3,440.0
+392,Commercial Demand,Small Office,"700 COTTAGEVIEW DR, Traverse City, Michigan, USA","1200 W Eleventh St, Traverse City, MI 49684, USA",0,1399,63197,6000,5.8,405.0
+393,Commercial Demand,Full Service Restaurant,"717 RANDOLPH ST, Traverse City, Michigan, USA","717 Randolph St, Traverse City, MI 49684, USA",1,1355,1233,6000,6.3,440.0
+394,Commercial Demand,Retail Strip Mall,"125 PARK ST, Traverse City, Michigan, USA","125 Park St, Traverse City, MI 49684, USA",1,1317,5673,6000,6.3,440.0
+395,Commercial Demand,Retail Strip Mall,"815 S GARFIELD AVE, Traverse City, Michigan, USA","801 S Garfield Ave, Traverse City, MI 49686, USA",0,1446,18129,7000,5.8,405.0
+396,Commercial Demand,Medium Office,"315 E FRONT ST, Traverse City, Michigan, USA","313 E Front St, Traverse City, MI 49686, USA",0,1330,7664,6000,6.3,440.0
+397,Commercial Demand,Retail Standalone,"1319 S DIVISION ST, Traverse City, Michigan, USA","1319 S Division St, Traverse City, MI 49684, USA",1,1447,6484,7000,5.8,405.0
+398,Commercial Demand,Retail Strip Mall,"821 S GARFIELD AVE, Traverse City, Michigan, USA","801 S Garfield Ave, Traverse City, MI 49686, USA",0,1446,18129,7000,5.8,405.0
+399,Commercial Demand,Warehouse,"1331 1/2 S GARFIELD AVE, Traverse City, Michigan, USA","1331 S Garfield Ave, Traverse City, MI 49686, USA",1,1449,8087,6000,5.8,405.0
+400,Commercial Demand,Midrise Apartment,"109 E FRONT ST, Traverse City, Michigan, USA","107 E Front St, Traverse City, MI 49684, USA",0,1324,14007,6000,6.3,440.0
+401,Commercial Demand,Medium Office,"121 RIVERS EDGE DR, Traverse City, Michigan, USA","121 Rivers Edge Dr, Traverse City, MI 49684, USA",1,1361,2555,6000,6.3,440.0
+402,Commercial Demand,Medium Office,"140 RIVERS EDGE DR, Traverse City, Michigan, USA","141 Rivers Edge Dr #200, Traverse City, MI 49684, USA",0,1402,5885,6000,6.0,423.0
+403,Commercial Demand,Midrise Apartment,"215 WASHINGTON ST, Traverse City, Michigan, USA","216 E State St, Traverse City, MI 49684, USA",0,1445,194,400,2.8,194.0
+404,Commercial Demand,Other ,"1566 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+405,Commercial Demand,Quick Service Restaurant,"127 E FRONT ST, Traverse City, Michigan, USA","129 E Front St #210, Traverse City, MI 49684, USA",0,1321,1691,5000,6.3,440.0
+406,Commercial Demand,Outpatient,"115 E FOURTEENTH ST, Traverse City, Michigan, USA","115 E Fourteenth St, Traverse City, MI 49684, USA",1,1345,1991,6000,6.3,440.0
+407,Commercial Demand,Quick Service Restaurant,"708 BOON ST, Traverse City, Michigan, USA","708 Boon St, Traverse City, MI 49686, USA",1,1008,4158,1000,8.3,581.0
+408,Commercial Demand,Retail Strip Mall,"819 S GARFIELD AVE, Traverse City, Michigan, USA","801 S Garfield Ave, Traverse City, MI 49686, USA",0,1446,18129,7000,5.8,405.0
+409,Commercial Demand,Full Service Restaurant,"700 COTTAGEVIEW DR, Traverse City, Michigan, USA","1200 W Eleventh St, Traverse City, MI 49684, USA",0,1399,63197,6000,5.8,405.0
+410,Commercial Demand,Small Office,"202 E GRANDVIEW PKWY, Traverse City, Michigan, USA","202 E Grandview Pkwy, Traverse City, MI 49684, USA",1,1428,3999,6000,5.8,405.0
+411,Commercial Demand,Warehouse,"2314 SYBRANDT RD, Traverse City, Michigan, USA","2314 Sybrandt Rd, Traverse City, MI 49684, USA",1,1357,159552,7000,5.8,405.0
+412,Commercial Demand,Warehouse,"1175 AIRPORT ACCESS RD, Traverse City, Michigan, USA","1175 Airport Access Rd, Traverse City, MI 49686, USA",1,1323,8263,6000,6.3,440.0
+413,Commercial Demand,Warehouse,"1417 WOODMERE AVE, Traverse City, Michigan, USA","1401 Woodmere Ave, Traverse City, MI 49686, USA",0,1370,5814,6000,6.0,423.0
+414,Commercial Demand,Warehouse,"1780 BARLOW ST, Traverse City, Michigan, USA","1782 Barlow St, Traverse City, MI 49686, USA",0,1348,13090,6000,6.3,440.0
+415,Commercial Demand,Small Office,"1238 S GARFIELD AVE, Traverse City, Michigan, USA","1238 S Garfield Ave, Traverse City, MI 49686, USA",1,1328,9285,6000,6.3,440.0
+416,Commercial Demand,Small Hotel,"440 MUNSON AVE, Traverse City, Michigan, USA","460 Munson Ave US HWY 31, Traverse City, MI 49686, USA",0,1411,14429,6000,5.8,405.0
+417,Commercial Demand,Warehouse,"1645 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1567 W South Airport Rd, Traverse City, MI 49686, USA",0,1385,5039,6000,6.0,423.0
+418,Commercial Demand,Small Office,"409 W FOURTEENTH ST, Traverse City, Michigan, USA","409 W Fourteenth St, Traverse City, MI 49684, USA",1,1410,4651,6000,6.0,423.0
+419,Commercial Demand,Full Service Restaurant,"3828 N US 31 SOUTH, Traverse City, Michigan, USA",Not Found,,,,,,
+420,Commercial Demand,Retail Strip Mall,"230 E FRONT ST, Traverse City, Michigan, USA","234 E Front St, Traverse City, MI 49684, USA",0,1320,4933,6000,6.3,440.0
+421,Commercial Demand,Retail Strip Mall,"626 E EIGHTH ST, Traverse City, Michigan, USA","616 E Eighth St #7, Traverse City, MI 49686, USA",0,1437,6272,6000,5.8,405.0
+422,Commercial Demand,Warehouse,"941 HASTINGS ST, Traverse City, Michigan, USA","941 Hastings St, Traverse City, MI 49686, USA",1,1324,32717,6000,6.3,440.0
+423,Commercial Demand,Full Service Restaurant,"161 E FRONT ST, Traverse City, Michigan, USA","161 E Front St #209, Traverse City, MI 49684, USA",1,1326,3259,6000,6.3,440.0
+424,Commercial Demand,Warehouse,"1190 AIRPORT ACCESS RD, Traverse City, Michigan, USA","1190 Airport Access Rd, Traverse City, MI 49686, USA",1,1346,8210,6000,6.3,440.0
+425,Commercial Demand,Full Service Restaurant,"221 E STATE ST, Traverse City, Michigan, USA","223 E State St #200, Traverse City, MI 49684, USA",0,1416,7329,6000,6.0,423.0
+426,Commercial Demand,Warehouse,"1567 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1567 W South Airport Rd, Traverse City, MI 49686, USA",1,1327,52802,6000,6.3,440.0
+427,Commercial Demand,Small Office,"1501 CASS ST, Traverse City, Michigan, USA","145 Fairway Hills Dr, Traverse City, MI 49684, USA",0,1335,1691,5000,6.5,458.0
+428,Commercial Demand,Small Office,"101 W GRANDVIEW PKWY, Traverse City, Michigan, USA","101 W Grandview Pkwy, Traverse City, MI 49684, USA",1,1440,8386,7000,5.8,405.0
+429,Commercial Demand,Full Service Restaurant,"448 E FRONT ST, Traverse City, Michigan, USA","448 E Front St, Traverse City, MI 49686, USA",1,1429,2660,6000,5.8,405.0
+430,Commercial Demand,Midrise Apartment,"155 GARLAND ST, Traverse City, Michigan, USA","205 Garland St, Traverse City, MI 49684, USA",0,1321,2185,6000,6.3,440.0
+431,Commercial Demand,Full Service Restaurant,"1209 E FRONT ST, Traverse City, Michigan, USA","1201 E Front St, Traverse City, MI 49686, USA",0,1408,1286,6000,6.0,423.0
+432,Commercial Demand,Other ,"209 N UNION ST, Traverse City, Michigan, USA","205 N Union St, Traverse City, MI 49684, USA",0,1283,740,5000,6.5,458.0
+433,Commercial Demand,Full Service Restaurant,"229 E FRONT ST, Traverse City, Michigan, USA","225 E Front St, Traverse City, MI 49684, USA",0,1318,5955,5000,6.3,440.0
+434,Commercial Demand,Medium Office,"625 S GARFIELD AVE, Traverse City, Michigan, USA","625 S Garfield Ave, Traverse City, MI 49686, USA",1,1323,7664,6000,6.3,440.0
+435,Commercial Demand,Retail Standalone,"709 RANDOLPH ST, Traverse City, Michigan, USA","709 Randolph St, Traverse City, MI 49684, USA",1,1195,1198,3000,7.5,529.0
+436,Commercial Demand,Retirement Community,"935 BARLOW ST, Traverse City, Michigan, USA","935 Barlow St, Traverse City, MI 49686, USA",1,1110,2608,3000,7.5,529.0
+437,Commercial Demand,Retail Standalone,"617 RANDOLPH ST, Traverse City, Michigan, USA","617 Randolph St, Traverse City, MI 49684, USA",1,1388,1092,5000,6.3,440.0
+438,Commercial Demand,Other ,"3742 W FRONT ST, Traverse City, Michigan, USA","3743 W Front St, Traverse City, MI 49684, USA",0,1331,11152,6000,6.3,440.0
+439,Commercial Demand,Medium Office,"830 COTTAGEVIEW DR, Traverse City, Michigan, USA",Not Found,,,,,,
+440,Commercial Demand,Medium Office,"2707 AERO PARK DR, Traverse City, Michigan, USA","2707 Aero-Park Dr, Traverse City, MI 49686, USA",1,1319,44874,6000,6.3,440.0
+441,Commercial Demand,Small Office,"511 E FRONT ST, Traverse City, Michigan, USA","511 E Front St, Traverse City, MI 49686, USA",1,1383,5074,6000,6.3,440.0
+442,Commercial Demand,Small Office,"3639 MARKETPLACE CR, Traverse City, Michigan, USA","3639 Marketplace Cir, Traverse City, MI 49684, USA",1,1341,19680,6000,6.3,440.0
+443,Commercial Demand,Small Office,"1131 HASTINGS ST, Traverse City, Michigan, USA","1131 Hastings St, Traverse City, MI 49686, USA",1,1352,9391,6000,6.0,423.0
+444,Commercial Demand,Medium Office,"305 W FRONT ST 4TH, Traverse City, Michigan, USA","302 W Front St, Traverse City, MI 49684, USA",0,1310,599,5000,6.5,458.0
+445,Commercial Demand,Medium Office,"2830 AERO PARK DR, Traverse City, Michigan, USA","2830 Aero-Park Dr, Traverse City, MI 49686, USA",1,1310,21741,5000,6.3,440.0
+446,Commercial Demand,Small Office,"2238 TRAVERSEFIELD DR, Traverse City, Michigan, USA","2238 Traversefield Dr, Traverse City, MI 49686, USA",1,1404,8087,6000,6.0,423.0
+447,Commercial Demand,Small Office,"2531 AERO PARK DR, Traverse City, Michigan, USA","2531 Aero-Park Dr, Traverse City, MI 49686, USA",1,1335,7875,6000,6.3,440.0
+448,Commercial Demand,Small Office,"111 CASS ST, Traverse City, Michigan, USA","107 Cass St ste d, Traverse City, MI 49684, USA",0,1348,12157,6000,6.0,423.0
+449,Commercial Demand,Religious worship ,"1015 S UNION ST, Traverse City, Michigan, USA","1025 S Union St, Traverse City, MI 49684, USA",0,1421,17125,6000,5.8,405.0
+450,Commercial Demand,Retail Strip Mall,"114 S UNION ST, Traverse City, Michigan, USA","116 S Union St, Traverse City, MI 49684, USA",0,1346,2784,6000,6.3,440.0
+451,Commercial Demand,Small Office,"2458 N AERO PARK CT, Traverse City, Michigan, USA","2458 N Aero-Park Ct, Traverse City, MI 49686, USA",1,1318,17248,5000,6.3,440.0
+452,Commercial Demand,Hospital,"1020 SIXTH ST, Traverse City, Michigan, USA","1020 Sixth St, Traverse City, MI 49684, USA",1,1349,1533,6000,6.3,440.0
+453,Commercial Demand,Warehouse,"2475 AERO PARK CT, Traverse City, Michigan, USA","2475 N Aero-Park Ct, Traverse City, MI 49686, USA",1,1319,29211,6000,6.3,440.0
+454,Commercial Demand,Small Office,"202 S UNION ST, Traverse City, Michigan, USA","202 S Union St, Traverse City, MI 49684, USA",1,1335,11663,6000,6.3,440.0
+455,Commercial Demand,Primary School,"1001 S OAK ST, Traverse City, Michigan, USA","444 W Thirteenth St, Traverse City, MI 49684, USA",0,1271,987,4000,7.3,511.0
+456,Commercial Demand,Warehouse,"707 PARSONS RD, Traverse City, Michigan, USA","707 Parsons Rd, Traverse City, MI 49686, USA",1,1331,8122,6000,6.3,440.0
+457,Commercial Demand,Retirement Community,"3950 SCENIC RIDGE, Traverse City, Michigan, USA","3950 Scenic Ridge, Traverse City, MI 49684, USA",1,1448,758,5000,6.5,458.0
+458,Commercial Demand,Service ,"706 W FRONT ST, Traverse City, Michigan, USA","702 W Front St, Traverse City, MI 49684, USA",0,1360,899,5000,6.3,440.0
+459,Commercial Demand,Small Hotel,"460 MUNSON AVE, Traverse City, Michigan, USA","460 Munson Ave US HWY 31, Traverse City, MI 49686, USA",1,1411,14429,6000,5.8,405.0
+460,Commercial Demand,Retirement Community,"415 S ELMWOOD AVE, Traverse City, Michigan, USA","415 S Elmwood Ave, Traverse City, MI 49684, USA",1,1254,2343,4000,6.8,476.0
+461,Commercial Demand,Midrise Apartment,"1015 RED DR, Traverse City, Michigan, USA","1015 Red Dr, Traverse City, MI 49684, USA",1,1416,6836,6000,5.8,405.0
+462,Commercial Demand,Full Service Restaurant,"229 LAKE AVE, Traverse City, Michigan, USA","227 Lake Ave, Traverse City, MI 49684, USA",0,1332,5532,6000,6.3,440.0
+463,Commercial Demand,Small Office,"424 E FRONT ST, Traverse City, Michigan, USA","424 E Front St, Traverse City, MI 49686, USA",1,1351,1163,6000,6.3,440.0
+464,Commercial Demand,Quick Service Restaurant,"1686 S GARFIELD AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+465,Commercial Demand,Outpatient,"1241 E EIGHTH ST, Traverse City, Michigan, USA","202 E State St #100, Traverse City, MI 49686, USA",0,1391,7171,6000,6.0,423.0
+466,Commercial Demand,Warehouse,"3680 CASS RD, Traverse City, Michigan, USA",Not Found,,,,,,
+467,Commercial Demand,Retail Strip Mall,"728 MUNSON AVE, Traverse City, Michigan, USA","724 Munson Ave, Traverse City, MI 49686, USA",0,1358,19733,6000,6.3,440.0
+468,Commercial Demand,Service ,"901 E FRONT ST, Traverse City, Michigan, USA","901 E Front St, Traverse City, MI 49686, USA",1,1407,934,6000,6.0,423.0
+469,Commercial Demand,Medium Office,"1001 W ELEVENTH ST, Traverse City, Michigan, USA","1001 W Eleventh St, Traverse City, MI 49684, USA",1,1385,828,5000,6.5,458.0
+470,Commercial Demand,Warehouse,"807 AIRPORT ACCESS RD, Traverse City, Michigan, USA","807 Airport Access Rd d, Traverse City, MI 49686, USA",1,1326,156063,7000,5.8,405.0
+471,Commercial Demand,Retail Strip Mall,"1323 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1323 W South Airport Rd, Traverse City, MI 49686, USA",1,1303,14024,5000,6.5,458.0
+472,Commercial Demand,Retail Standalone,"135 E STATE ST, Traverse City, Michigan, USA","135 E State St, Traverse City, MI 49684, USA",1,1321,3770,6000,6.3,440.0
+473,Commercial Demand,Large Office,"120 W FRONT ST, Traverse City, Michigan, USA","120 W Front St, Traverse City, MI 49684, USA",1,1311,6008,5000,6.3,440.0
+474,Commercial Demand,Warehouse,"2155 TRAVERSEFIELD DR, Traverse City, Michigan, USA","2155 Traversefield Dr, Traverse City, MI 49686, USA",1,1325,28348,6000,6.3,440.0
+475,Commercial Demand,Medium Office,"440 E FRONT ST, Traverse City, Michigan, USA","440 E Front St, Traverse City, MI 49686, USA",1,1372,2819,6000,6.3,440.0
+476,Commercial Demand,Retirement Community,"3950 SCENIC RIDGE, Traverse City, Michigan, USA","3950 Scenic Ridge, Traverse City, MI 49684, USA",1,1448,758,5000,6.5,458.0
+477,Commercial Demand,Large Office,"333 W GRANDVIEW PKWY STE, Traverse City, Michigan, USA","333 W Grandview Pkwy, Traverse City, MI 49684, USA",1,1329,11822,6000,6.3,440.0
+478,Commercial Demand,Large Office,"800 S GARFIELD AVE, Traverse City, Michigan, USA","804 S Garfield Ave Suite A, Traverse City, MI 49686, USA",0,1212,3347,4000,7.0,493.0
+479,Commercial Demand,Retail Standalone,"1104 E FRONT ST, Traverse City, Michigan, USA","1104 E Front St, Traverse City, MI 49686, USA",1,1300,2097,5000,6.5,458.0
+480,Commercial Demand,Supermarket,"1532 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+481,Commercial Demand,Warehouse,"2699 CASS RD, Traverse City, Michigan, USA","2699 Cass Rd, Traverse City, MI 49684, USA",1,1316,2678,5000,6.3,440.0
+482,Commercial Demand,Medium Office,"720 S ELMWOOD AVE, Traverse City, Michigan, USA","720 S Elmwood Ave #2, Traverse City, MI 49684, USA",1,1209,8281,4000,7.0,493.0
+483,Commercial Demand,Warehouse,"2397 TRAVERSEFIELD DR, Traverse City, Michigan, USA","2397 Traversefield Dr, Traverse City, MI 49686, USA",1,1309,14588,5000,6.3,440.0
+484,Commercial Demand,Retail Standalone,"3536 N US 31 SOUTH, Traverse City, Michigan, USA",Not Found,,,,,,
+485,Commercial Demand,Small Hotel,"1492 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+486,Commercial Demand,Service ,"501 E EIGHTH ST, Traverse City, Michigan, USA","501 E Eighth St, Traverse City, MI 49686, USA",1,1350,529,6000,6.3,440.0
+487,Commercial Demand,Medium Office,"141 RIVERS EDGE DR, Traverse City, Michigan, USA","310 Cass St, Traverse City, MI 49684, USA",0,1394,11963,6000,6.0,423.0
+488,Commercial Demand,Secondary School,"1150 MILLIKEN DR, Traverse City, Michigan, USA","1150 Milliken Dr, Traverse City, MI 49686, USA",1,1327,212777,6000,6.0,423.0
+489,Commercial Demand,Quick Service Restaurant,"524 W FOURTEENTH ST, Traverse City, Michigan, USA","529 W Fourteenth St, Traverse City, MI 49684, USA",0,1286,881,5000,6.8,476.0
+490,Commercial Demand,Medium Office,"521 RANDOLPH ST, Traverse City, Michigan, USA","521 Randolph St, Traverse City, MI 49684, USA",1,1351,3436,6000,6.3,440.0
+491,Commercial Demand,Service ,"511 S GARFIELD AVE, Traverse City, Michigan, USA","511 S Garfield Ave, Traverse City, MI 49686, USA",1,1318,13760,6000,6.3,440.0
+492,Commercial Demand,Retail Standalone,"2360 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","2370 W South Airport Rd, Traverse City, MI 49684, USA",0,1320,22146,6000,6.3,440.0
+493,Commercial Demand,Retail Standalone,"950 WOODMERE AVE, Traverse City, Michigan, USA","950 Woodmere Ave, Traverse City, MI 49686, USA",1,1437,9514,6000,5.8,405.0
+494,Commercial Demand,Retail Standalone,"2751 N US 31 SOUTH, Traverse City, Michigan, USA","2743 US-31, Traverse City, MI 49684, USA",0,1370,11188,6000,6.0,423.0
+495,Commercial Demand,Retail Strip Mall,"800 HASTINGS ST, Traverse City, Michigan, USA","800 Hastings St Suite B, Traverse City, MI 49686, USA",1,1292,5849,5000,6.5,458.0
+496,Commercial Demand,Retail Standalone,"2801 N US 31 SOUTH, Traverse City, Michigan, USA","2801 US-31, Traverse City, MI 49684, USA",1,1379,16896,6000,6.0,423.0
+497,Commercial Demand,Outpatient,"924 HASTINGS ST, Traverse City, Michigan, USA","924 Hastings St, Traverse City, MI 49686, USA",1,1268,2185,4000,7.0,493.0
+498,Commercial Demand,Midrise Apartment,"101 N PARK ST, Traverse City, Michigan, USA","255 E Front St, Traverse City, MI 49684, USA",0,1419,8087,6000,6.0,423.0
+499,Commercial Demand,Other ,"144 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","143 E South Airport Rd, Traverse City, MI 49686, USA",0,1151,722,2000,8.0,564.0
+500,Commercial Demand,Full Service Restaurant,"1371 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1371 W South Airport Rd, Traverse City, MI 49686, USA",1,1315,8016,5000,6.3,440.0
+501,Commercial Demand,Medium Office,"415 MUNSON AVE, Traverse City, Michigan, USA","415 Munson Ave, Traverse City, MI 49686, USA",1,1314,11822,5000,6.3,440.0
+502,Commercial Demand,Medium Office,"218 W FOURTEENTH ST, Traverse City, Michigan, USA","218 W Fourteenth St, Traverse City, MI 49684, USA",1,1441,2061,6000,6.0,423.0
+503,Commercial Demand,Large Office,"625 WOODMERE AVE, Traverse City, Michigan, USA","625 Woodmere Ave, Traverse City, MI 49686, USA",1,1338,42813,7000,5.8,405.0
+504,Commercial Demand,Other ,"144 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","143 E South Airport Rd, Traverse City, MI 49686, USA",0,1151,722,2000,8.0,564.0
+505,Commercial Demand,Retail Standalone,"129 E FRONT ST, Traverse City, Michigan, USA","129 E Front St Suite 200, Traverse City, MI 49684, USA",1,1385,2414,6000,6.3,440.0
+506,Commercial Demand,Retail Strip Mall,"734 MUNSON AVE SUITE, Traverse City, Michigan, USA","801 Munson Ave, Traverse City, MI 49686, USA",0,1409,1727,6000,6.0,423.0
+507,Commercial Demand,Medium Office,"315 E FRONT ST, Traverse City, Michigan, USA","313 E Front St, Traverse City, MI 49686, USA",0,1330,7664,6000,6.3,440.0
+508,Commercial Demand,Retail Strip Mall,"3055 CASS RD, Traverse City, Michigan, USA","3055 Cass Rd, Traverse City, MI 49684, USA",1,1418,16315,6000,5.8,405.0
+509,Commercial Demand,Full Service Restaurant,"160 E FRONT ST, Traverse City, Michigan, USA","156 E Front St, Traverse City, MI 49684, USA",0,1340,1550,5000,6.3,440.0
+510,Commercial Demand,Warehouse,"2470 N AERO PARK CT, Traverse City, Michigan, USA","2470 N Aero-Park Ct, Traverse City, MI 49686, USA",1,1319,19574,6000,6.3,440.0
+511,Commercial Demand,Retail Strip Mall,"1201 S GARFIELD AVE, Traverse City, Michigan, USA",Not Found,,,,,,
+512,Commercial Demand,Warehouse,"2314 SYBRANDT RD, Traverse City, Michigan, USA","2314 Sybrandt Rd, Traverse City, MI 49684, USA",1,1357,159552,7000,5.8,405.0
+513,Commercial Demand,Medium Office,"1501 CASS ST, Traverse City, Michigan, USA","145 Fairway Hills Dr, Traverse City, MI 49684, USA",0,1335,1691,5000,6.5,458.0
+514,Commercial Demand,Retail Standalone,"1331 S GARFIELD AVE, Traverse City, Michigan, USA","1331 S Garfield Ave, Traverse City, MI 49686, USA",1,1449,8087,6000,5.8,405.0
+515,Commercial Demand,Medium Office,"735 S GARFIELD AVE, Traverse City, Michigan, USA","735 S Garfield Ave, Traverse City, MI 49686, USA",1,1430,5867,6000,5.8,405.0
+516,Commercial Demand,Medium Office,"440 W FRONT ST, Traverse City, Michigan, USA","440 W Front St, Traverse City, MI 49684, USA",1,1308,3154,5000,6.3,440.0
+517,Commercial Demand,Warehouse,"845 E SOUTH AIRPORT RD, Traverse City, Michigan, USA",Not Found,,,,,,
+518,Commercial Demand,Other ,"3375 WRIGHT DR, Traverse City, Michigan, USA","3375 Wright Dr, Traverse City, MI 49686, USA",1,1329,32929,6000,6.3,440.0
+519,Commercial Demand,Warehouse,"1230 WOODMERE AVE, Traverse City, Michigan, USA","1230 Woodmere Ave, Traverse City, MI 49686, USA",1,1345,4598,6000,6.3,440.0
+520,Commercial Demand,Retail Standalone,"1396 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1396 W South Airport Rd, Traverse City, MI 49686, USA",1,1386,3806,6000,6.0,423.0
+521,Commercial Demand,Outpatient,"701 W FRONT ST, Traverse City, Michigan, USA","701 W Front St STE 200, Traverse City, MI 49684, USA",1,1429,5567,6000,5.8,405.0
+522,Commercial Demand,Retail Standalone,"2577 N US 31 SOUTH, Traverse City, Michigan, USA",Not Found,,,,,,
+523,Commercial Demand,Outpatient,"317 E FRONT ST, Traverse City, Michigan, USA","313 E Front St, Traverse City, MI 49686, USA",0,1330,7664,6000,6.3,440.0
+524,Commercial Demand,Medium Office,"241 E STATE ST, Traverse City, Michigan, USA","241 E State St, Traverse City, MI 49684, USA",1,1333,8333,6000,6.3,440.0
+525,Commercial Demand,Retail Standalone,"1795 BARLOW ST, Traverse City, Michigan, USA","1795 Barlow St, Traverse City, MI 49686, USA",1,1341,1956,6000,6.3,440.0
+526,Commercial Demand,Medium Office,"201 E SEVENTEENTH ST, Traverse City, Michigan, USA","201 E Seventeenth St, Traverse City, MI 49684, USA",1,1156,3682,3000,7.5,529.0
+527,Commercial Demand,Outpatient,"844 E FRONT ST, Traverse City, Michigan, USA","844 E Front St, Traverse City, MI 49686, USA",1,1356,3101,5000,6.3,440.0
+528,Commercial Demand,Retirement Community,"3950 SCENIC RIDGE, Traverse City, Michigan, USA","3950 Scenic Ridge, Traverse City, MI 49684, USA",1,1448,758,5000,6.5,458.0
+529,Commercial Demand,Retail Strip Mall,"1115 S GARFIELD AVE, Traverse City, Michigan, USA","1115 S Garfield Ave, Traverse City, MI 49684, USA",1,1444,29493,7000,5.8,405.0
+530,Commercial Demand,Medium Office,"141 RIVERS EDGE DR, Traverse City, Michigan, USA","310 Cass St, Traverse City, MI 49684, USA",0,1394,11963,6000,6.0,423.0
+531,Commercial Demand,Full Service Restaurant,"472 MUNSON AVE, Traverse City, Michigan, USA","472 Munson Ave, Traverse City, MI 49686, USA",1,1361,3207,6000,6.3,440.0
+532,Commercial Demand,Retail Standalone,"3675 MARKETPLACE CR, Traverse City, Michigan, USA","3675 Marketplace Cir, Traverse City, MI 49684, USA",1,1443,16350,7000,5.8,405.0
+533,Commercial Demand,Warehouse,"795 LYNCH DR, Traverse City, Michigan, USA","811 Lynch Dr, Traverse City, MI 49686, USA",0,1322,47129,6000,6.3,440.0
+534,Commercial Demand,Medium Office,"1881 COLLEGE DR, Traverse City, Michigan, USA","1880 College Dr, Traverse City, MI 49686, USA",0,1237,3770,4000,7.0,493.0
+535,Commercial Demand,Other ,"144 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","143 E South Airport Rd, Traverse City, MI 49686, USA",0,1151,722,2000,8.0,564.0
+536,Commercial Demand,Supermarket,"3587 MARKETPLACE CR, Traverse City, Michigan, USA","3639 Marketplace Cir, Traverse City, MI 49684, USA",0,1341,19680,6000,6.3,440.0
+537,Commercial Demand,Supermarket,"905 E EIGHTH ST, Traverse City, Michigan, USA","905 E Eighth St, Traverse City, MI 49686, USA",1,1410,16121,6000,5.8,405.0
+538,Commercial Demand,Service ,"1122 E EIGHTH ST, Traverse City, Michigan, USA","1116 E Eighth St, Traverse City, MI 49686, USA",0,1320,10289,6000,6.3,440.0
+539,Commercial Demand,Medium Office,"420 E FRONT ST, Traverse City, Michigan, USA","420 E Front St, Traverse City, MI 49686, USA",1,1373,1586,5000,6.5,458.0
+540,Commercial Demand,Retail Standalone,"101 E FRONT ST, Traverse City, Michigan, USA","107 E Front St, Traverse City, MI 49684, USA",0,1324,14007,6000,6.3,440.0
+541,Commercial Demand,Retail Standalone,"538 W FOURTEENTH ST, Traverse City, Michigan, USA","538 W Fourteenth St, Traverse City, MI 49684, USA",1,1322,2467,5000,6.3,440.0
+542,Commercial Demand,Midrise Apartment,"701 W FRONT ST, Traverse City, Michigan, USA","701 W Front St STE 200, Traverse City, MI 49684, USA",1,1429,5567,6000,5.8,405.0
+543,Commercial Demand,Retail Strip Mall,"1117 W SOUTH AIRPORT RD UNIT, Traverse City, Michigan, USA","1117 W South Airport Rd, Traverse City, MI 49686, USA",1,1397,9884,6000,6.0,423.0
+544,Commercial Demand,Retail Strip Mall,"839 S GARFIELD AVE, Traverse City, Michigan, USA","839 S Garfield Ave, Traverse City, MI 49686, USA",1,1325,29317,6000,6.3,440.0
+545,Commercial Demand,Retail Standalone,"626 W FRONT ST, Traverse City, Michigan, USA","626 W Front St, Traverse City, MI 49684, USA",1,1385,11470,6000,6.0,423.0
+546,Commercial Demand,Retail Standalone,"827 S UNION ST, Traverse City, Michigan, USA","827 S Union St, Traverse City, MI 49684, USA",1,1417,987,6000,6.3,440.0
+547,Commercial Demand,Retail Strip Mall,"1319 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1323 W South Airport Rd, Traverse City, MI 49686, USA",0,1303,14024,5000,6.5,458.0
+548,Commercial Demand,Other ,"111 E GRANDVIEW PKWY, Traverse City, Michigan, USA",Not Found,,,,,,
+549,Commercial Demand,Religious worship ,"1139 E FRONT ST, Traverse City, Michigan, USA","1139 E Front St, Traverse City, MI 49686, USA",1,1318,7611,6000,6.3,440.0
+550,Commercial Demand,Midrise Apartment,"1011 LAKE RIDGE DR, Traverse City, Michigan, USA","1011 Lake Ridge Dr, Traverse City, MI 49684, USA",1,1447,6889,7000,5.8,405.0
+551,Commercial Demand,Retail Standalone,"1100 S GARFIELD AVE, Traverse City, Michigan, USA","1100 S Garfield Ave, Traverse City, MI 49686, USA",1,1394,4546,6000,6.0,423.0
+552,Commercial Demand,Medium Office,"520 E FRONT ST, Traverse City, Michigan, USA","524 E Front St, Traverse City, MI 49686, USA",0,1428,5233,6000,5.8,405.0
+553,Commercial Demand,Midrise Apartment,"731 FITZHUGH DR, Traverse City, Michigan, USA",Not Found,,,,,,
+554,Commercial Demand,Medium Office,"1145 HASTINGS ST, Traverse City, Michigan, USA","1145 Hastings St, Traverse City, MI 49686, USA",1,1320,51128,5000,6.3,440.0
+555,Commercial Demand,Retail Standalone,"115 HALL ST, Traverse City, Michigan, USA","Downtown Hall St Transfer Station, Traverse City, MI 49684, USA",0,1445,3876,7000,5.8,405.0
+556,Commercial Demand,Other ,"1576 PREMIER ST, Traverse City, Michigan, USA",Not Found,,,,,,
+557,Commercial Demand,Warehouse,"1020 HASTINGS ST, Traverse City, Michigan, USA","1020 Hastings St # 105, Traverse City, MI 49686, USA",1,1295,12615,5000,6.5,458.0
+558,Commercial Demand,Service ,"2600 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","2600 W South Airport Rd, Traverse City, MI 49684, USA",1,1351,2519,6000,6.3,440.0
+559,Commercial Demand,Other ,"303 E STATE ST, Traverse City, Michigan, USA","303 E State St, Traverse City, MI 49684, USA",1,1354,38443,6000,5.8,405.0
+560,Commercial Demand,Full Service Restaurant,"851 S GARFIELD AVE, Traverse City, Michigan, USA","839 S Garfield Ave, Traverse City, MI 49686, USA",0,1325,29317,6000,6.3,440.0
+561,Commercial Demand,Retail Strip Mall,"221 E FRONT ST, Traverse City, Michigan, USA","223 E Front St, Traverse City, MI 49684, USA",0,1265,2044,5000,6.8,476.0
+562,Commercial Demand,Other ,"3020 CASS RD, Traverse City, Michigan, USA","2950 Cass Rd, Traverse City, MI 49684, USA",0,1451,3488,7000,5.8,405.0
+563,Commercial Demand,Quick Service Restaurant,"748 MUNSON AVE STE, Traverse City, Michigan, USA","752 Munson Ave, Traverse City, MI 49686, USA",0,1352,2202,6000,6.3,440.0
+564,Commercial Demand,Warehouse,"2392 CASS RD, Traverse City, Michigan, USA","2392 Cass Rd, Traverse City, MI 49684, USA",1,1312,8933,5000,6.3,440.0
+565,Commercial Demand,Warehouse,"1421 WOODMERE AVE, Traverse City, Michigan, USA","1421 Woodmere Ave, Traverse City, MI 49686, USA",1,1312,3559,5000,6.3,440.0
+566,Commercial Demand,Medium Office,"1000 HASTINGS ST, Traverse City, Michigan, USA","1000 Hastings St, Traverse City, MI 49686, USA",1,1373,3066,6000,6.3,440.0
+567,Commercial Demand,Retail Standalone,"734 W FRONT ST, Traverse City, Michigan, USA","734 W Front St, Traverse City, MI 49684, USA",1,1347,7505,6000,6.3,440.0
+568,Commercial Demand,Other ,"1260 BOON ST, Traverse City, Michigan, USA","1230 Boon St, Traverse City, MI 49686, USA",0,1314,5092,5000,6.3,440.0
+569,Commercial Demand,Warehouse,"1247 BOON ST, Traverse City, Michigan, USA","1247 Boon St, Traverse City, MI 49686, USA",1,1314,25141,5000,6.3,440.0
+570,Commercial Demand,Warehouse,"260 E TWELFTH ST, Traverse City, Michigan, USA","260 E Twelfth St, Traverse City, MI 49684, USA",1,1312,4898,5000,6.3,440.0
+571,Commercial Demand,Midrise Apartment,"931 FITZHUGH DR, Traverse City, Michigan, USA",Not Found,,,,,,
+572,Commercial Demand,Full Service Restaurant,"221 GARLAND ST STE, Traverse City, Michigan, USA","221 Garland St, Traverse City, MI 49684, USA",1,1327,7083,6000,6.3,440.0
+573,Commercial Demand,Midrise Apartment,"750 FITZHUGH DR, Traverse City, Michigan, USA","750 Fitzhugh Dr, Traverse City, MI 49684, USA",1,1290,5109,5000,6.5,458.0
+574,Commercial Demand,Full Service Restaurant,"1333 YELLOW DR, Traverse City, Michigan, USA",Not Found,,,,,,
+575,Commercial Demand,Full Service Restaurant,"124 CASS ST, Traverse City, Michigan, USA","124 Cass St, Traverse City, MI 49684, USA",1,1364,810,5000,6.3,440.0
+576,Commercial Demand,Medium Office,"603 BAY ST, Traverse City, Michigan, USA","603 Bay St, Traverse City, MI 49684, USA",1,1425,3894,6000,5.8,405.0
+577,Commercial Demand,Small Hotel,"221 GARLAND ST, Traverse City, Michigan, USA","221 Garland St, Traverse City, MI 49684, USA",1,1327,7083,6000,6.3,440.0
+578,Commercial Demand,Secondary School,"123 E ELEVENTH ST, Traverse City, Michigan, USA","123 E Tenth St, Traverse City, MI 49684, USA",1,1384,846,4000,7.0,493.0
+579,Commercial Demand,Retail Strip Mall,"1035 S GARFIELD AVE, Traverse City, Michigan, USA","1035 S Garfield Ave, Traverse City, MI 49686, USA",1,1322,7770,6000,6.3,440.0
+580,Commercial Demand,Small Office,"314 E FRONT ST, Traverse City, Michigan, USA","314 E Front St, Traverse City, MI 49684, USA",1,1160,3083,4000,7.3,511.0
+581,Commercial Demand,Retail Strip Mall,"104 S UNION ST, Traverse City, Michigan, USA","104 S Union St #201, Traverse City, MI 49684, USA",1,1325,4986,6000,6.3,440.0
+582,Commercial Demand,Small Office,"836 ROBINWOOD CT, Traverse City, Michigan, USA","836 Robinwood Ct, Traverse City, MI 49686, USA",1,1094,1568,2000,7.8,546.0
+583,Commercial Demand,Retail Strip Mall,"123 S UNION ST, Traverse City, Michigan, USA","123 S Union St, Traverse City, MI 49684, USA",1,1327,3858,6000,6.3,440.0
+584,Commercial Demand,Small Office,"811 S GARFIELD AVE, Traverse City, Michigan, USA","745 S Garfield Ave Ste B, Traverse City, MI 49686, USA",0,1435,5814,7000,5.8,405.0
+585,Commercial Demand,Retail Standalone,"1133 W SOUTH AIRPORT RD, Traverse City, Michigan, USA","1133 W South Airport Rd, Traverse City, MI 49686, USA",1,1295,9426,5000,6.5,458.0
+586,Commercial Demand,Small Hotel,"1566 US 31 NORTH, Traverse City, Michigan, USA",Not Found,,,,,,
+587,Commercial Demand,Small Hotel,"1840 US 31 NORTH, Traverse City, Michigan, USA","1808 US-31, Traverse City, MI 49685, USA",0,1174,1004,2000,8.0,564.0
+588,Commercial Demand,Medium Office,"2510 AERO PARK DR, Traverse City, Michigan, USA","2510 Aero-Park Dr, Traverse City, MI 49686, USA",1,1323,16367,6000,6.3,440.0
+589,Commercial Demand,Medium Office,"610 WOODMERE AVE, Traverse City, Michigan, USA","610 Woodmere Ave, Traverse City, MI 49686, USA",1,1417,23115,6000,5.8,405.0
+590,Commercial Demand,Medium Office,"141 RIVERS EDGE DR, Traverse City, Michigan, USA","310 Cass St, Traverse City, MI 49684, USA",0,1394,11963,6000,6.0,423.0
+591,Commercial Demand,Midrise Apartment,"781 FITZHUGH DR, Traverse City, Michigan, USA","781 Fitzhugh Dr, Traverse City, MI 49684, USA",1,1320,5021,5000,6.3,440.0
+592,Commercial Demand,Medium Office,"517 WELLINGTON ST, Traverse City, Michigan, USA","517 Wellington St, Traverse City, MI 49686, USA",1,1362,9056,6000,6.0,423.0
+593,Commercial Demand,Retirement Community,"1456 BRIGADOON CT, Traverse City, Michigan, USA",Not Found,,,,,,
+594,Commercial Demand,Full Service Restaurant,"3501 MARKETPLACE CR, Traverse City, Michigan, USA","3875 Marketplace Cir, Traverse City, MI 49684, USA",0,1421,5585,6000,6.0,423.0
+595,Commercial Demand,Warehouse,"2762 CASS RD, Traverse City, Michigan, USA","2762 Cass Rd, Traverse City, MI 49684, USA",1,1369,10818,6000,6.0,423.0
+596,Commercial Demand,Retail Standalone,"2625 N US 31 SOUTH, Traverse City, Michigan, USA","2537 US-31, Traverse City, MI 49684, USA",0,1321,9197,6000,6.3,440.0
+597,Commercial Demand,Full Service Restaurant,"305 W FRONT ST 1ST, Traverse City, Michigan, USA","302 W Front St, Traverse City, MI 49684, USA",0,1310,599,5000,6.5,458.0
+598,Commercial Demand,Retail Standalone,"231 E EIGHTH ST, Traverse City, Michigan, USA","231 E Eighth St, Traverse City, MI 49684, USA",1,1423,14658,6000,5.8,405.0
+599,Commercial Demand,Supermarket,"3955 N US 31 SOUTH, Traverse City, Michigan, USA",Not Found,,,,,,
+600,Commercial Demand,Medium Office,"140 RIVERS EDGE DR, Traverse City, Michigan, USA","141 Rivers Edge Dr #200, Traverse City, MI 49684, USA",0,1402,5885,6000,6.0,423.0
+601,Commercial Demand,Medium Office,"13900 S WEST BAY SHORE DR, Traverse City, Michigan, USA",Not Found,,,,,,
